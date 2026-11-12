@@ -1,0 +1,1133 @@
+id,latitude,longitude,tipo_obstaculo,data_relato,bairro
+1,-23.55659,-46.634622,buraco,2026-10-20,Liberdade
+2,-23.588687,-46.633594,calcada_irregular,2026-10-27,Vila Mariana
+3,-23.551175,-46.635895,calcada_irregular,2026-01-14,Sé
+4,-23.557662,-46.645123,escada_sem_rampa,2026-03-26,Bela Vista
+5,-23.555621,-46.633408,calcada_irregular,2026-10-28,Liberdade
+6,-23.544867,-46.629782,calcada_irregular,2026-01-13,Sé
+7,-23.558751,-46.644927,escada_sem_rampa,2026-05-11,Bela Vista
+8,-23.543297,-46.630189,calcada_irregular,2026-05-13,Sé
+9,-23.542636,-46.643907,obstrucao_calcada,2026-07-04,República
+10,-23.555256,-46.636256,calcada_irregular,2026-06-15,Liberdade
+11,-23.55541,-46.634267,obstrucao_calcada,2026-07-21,Liberdade
+12,-23.543507,-46.630422,obstrucao_calcada,2026-02-24,Sé
+13,-23.568619,-46.698374,buraco,2026-06-30,Pinheiros
+14,-23.554895,-46.635317,buraco,2026-10-20,Sé
+15,-23.59065,-46.63355,buraco,2026-05-13,Vila Mariana
+16,-23.586586,-46.634948,calcada_irregular,2026-01-13,Vila Mariana
+17,-23.567258,-46.693657,obstrucao_calcada,2026-06-05,Pinheiros
+18,-23.559485,-46.666548,calcada_irregular,2026-07-08,Consolação
+19,-23.58605,-46.665937,calcada_irregular,2026-05-02,Vila Mariana
+20,-23.559123,-46.645921,calcada_irregular,2026-02-09,
+21,-23.541595,-46.629748,obstrucao_calcada,2026-01-03,Sé
+22,-23.548802,-46.633383,buraco,2026-01-02,Sé
+23,-23.587694,-46.67176,buraco,2026-07-23,Pinheiros
+24,-23.542859,-46.629981,buraco,2026-01-22,Sé
+25,-23.54354,-46.630174,obstrucao_calcada,2026-04-29,Sé
+26,-23.542874,-46.628644,obstrucao_calcada,2026-08-28,Sé
+27,-23.552272,-46.63431,calcada_irregular,2026-06-08,Sé
+28,-23.549037,-46.633992,buraco,2026-05-24,Sé
+29,-23.548457,-46.632407,calcada_irregular,2026-10-29,Sé
+30,-23.54443,-46.632354,obstrucao_calcada,2026-10-29,Sé
+31,-23.544563,-46.630012,calcada_irregular,2026-09-25,Sé
+32,-23.559094,-46.645476,escada_sem_rampa,2026-06-07,Bela Vista
+33,-23.588302,-46.634664,calcada_irregular,2026-05-07,Vila Mariana
+34,-23.559003,-46.643582,escada_sem_rampa,2026-04-05,Bela Vista
+35,-23.555374,-46.636459,buraco,2026-01-07,Liberdade
+36,-23.543167,-46.631664,obstrucao_calcada,2026-07-16,Sé
+37,-23.539829,-46.645733,obstrucao_calcada,2026-02-03,República
+38,-23.549921,-46.695732,calcada_irregular,2026-05-01,Pinheiros
+39,-23.558252,-46.644686,escada_sem_rampa,2026-04-22,Bela Vista
+40,-23.568191,-46.692648,obstrucao_calcada,2026-03-28,Pinheiros
+41,-23.549944,-46.632024,obstrucao_calcada,2026-05-12,Sé
+42,-23.549839,-46.634002,buraco,2026-10-01,Sé
+43,-23.588921,-46.635807,obstrucao_calcada,2026-05-09,Vila Mariana
+44,-23.543128,-46.632851,calcada_irregular,2026-05-11,Sé
+45,-23.58792,-46.635593,calcada_irregular,2026-07-12,Vila Mariana
+46,-23.55794,-46.645206,escada_sem_rampa,2026-08-18,Bela Vista
+47,-23.54248,-46.629333,buraco,2026-10-02,Sé
+48,-23.557285,-46.645282,calcada_irregular,2026-04-30,Bela Vista
+49,-23.554566,-46.634981,escada_sem_rampa,2026-07-08,Sé
+50,-23.566759,-46.693234,calcada_irregular,2026-08-20,Pinheiros
+51,-23.550467,-46.632945,calcada_irregular,2026-09-04,Sé
+52,-23.559972,-46.645422,escada_sem_rampa,2026-08-24,Bela Vista
+53,-23.543414,-46.631201,obstrucao_calcada,2026-06-16,Sé
+54,-23.550555,-46.634082,obstrucao_calcada,2026-05-27,Sé
+55,-23.554282,-46.633803,escada_sem_rampa,2026-02-08,Sé
+56,-23.544379,-46.628463,escada_sem_rampa,2026-02-03,Sé
+57,-23.561382,-46.63623,buraco,2026-05-23,Liberdade
+58,-23.590185,-46.649601,buraco,2026-09-21,Vila Mariana
+59,-23.543177,-46.630037,buraco,2026-08-15,Sé
+60,-23.557549,-46.644333,calcada_irregular,2026-09-25,Bela Vista
+61,-23.588386,-46.636383,buraco,2026-05-25,Vila Mariana
+62,-23.575826,-46.675156,calcada_irregular,2026-01-12,Pinheiros
+63,-23.542318,-46.632558,obstrucao_calcada,2026-01-17,Sé
+64,-23.55751,-46.645235,calcada_irregular,2026-05-14,Bela Vista
+65,-23.568108,-46.628047,buraco,2026-01-27,Liberdade
+66,-23.544731,-46.62851,obstrucao_calcada,2026-06-25,Sé
+67,-23.550285,-46.634049,escada_sem_rampa,2026-09-16,Sé
+68,-23.557262,-46.646925,escada_sem_rampa,2026-04-12,Bela Vista
+69,-23.558477,-46.64509,escada_sem_rampa,2026-04-10,Bela Vista
+70,-23.564737,-46.694809,buraco,2026-06-30,Pinheiros
+71,-23.557943,-46.644407,calcada_irregular,2026-09-19,Bela Vista
+72,-23.551943,-46.633952,obstrucao_calcada,2026-03-27,Sé
+73,-23.548119,-46.631775,obstrucao_calcada,2026-10-31,Sé
+74,-23.549078,-46.633068,calcada_irregular,2026-02-04,Sé
+75,-23.565285,-46.693592,buraco,2026-06-24,Pinheiros
+76,-23.549807,-46.632988,calcada_irregular,2026-05-11,Sé
+77,-23.551287,-46.633602,buraco,2026-06-07,Sé
+78,-23.564613,-46.693137,buraco,2026-01-31,Pinheiros
+79,-23.556706,-46.635961,escada_sem_rampa,2026-07-11,Liberdade
+80,-23.543692,-46.631518,buraco,2026-07-14,Sé
+81,-23.551426,-46.632808,buraco,2026-08-05,Sé
+82,-23.543439,-46.630814,buraco,2026-10-03,Sé
+83,-23.543242,-46.630655,calcada_irregular,2026-04-14,Sé
+84,-23.590468,-46.696986,buraco,2026-10-08,Pinheiros
+85,-23.566114,-46.694813,obstrucao_calcada,2026-06-24,Pinheiros
+86,-23.590426,-46.636889,escada_sem_rampa,2026-06-04,Vila Mariana
+87,-23.555797,-46.6342,calcada_irregular,2026-08-17,
+88,-23.54201,-46.630723,obstrucao_calcada,2026-06-10,Sé
+89,-23.544382,-46.629885,calcada_irregular,2026-07-29,Sé
+90,-23.550286,-46.633709,obstrucao_calcada,2026-06-30,Sé
+91,-23.550286,-46.635376,escada_sem_rampa,2026-03-30,Sé
+92,-23.555792,-46.634941,calcada_irregular,2026-07-19,Liberdade
+93,-23.548033,-46.633693,escada_sem_rampa,2026-06-07,Sé
+94,-23.542552,-46.630487,buraco,2026-01-10,Sé
+95,-23.55704,-46.643361,escada_sem_rampa,2026-07-26,Bela Vista
+96,-23.548331,-46.633565,calcada_irregular,2026-08-10,Sé
+97,-23.549415,-46.633859,calcada_irregular,2026-01-22,Sé
+98,-23.549172,-46.633151,calcada_irregular,2026-03-27,Sé
+99,-23.58582,-46.631068,buraco,2026-08-07,Vila Mariana
+100,-23.549981,-46.63457,calcada_irregular,2026-09-12,Sé
+101,-23.568379,-46.695773,buraco,2026-08-10,Pinheiros
+102,-23.542049,-46.631534,obstrucao_calcada,2026-07-17,Sé
+103,-23.549955,-46.632959,escada_sem_rampa,2026-02-12,Sé
+104,-23.549865,-46.631531,calcada_irregular,2026-02-26,Sé
+105,-23.567396,-46.694782,buraco,2026-10-02,Pinheiros
+106,-23.543006,-46.63213,obstrucao_calcada,2026-04-03,Sé
+107,-23.557278,-46.646471,calcada_irregular,2026-07-24,Bela Vista
+108,-23.569837,-46.694134,obstrucao_calcada,2026-10-29,Pinheiros
+109,-23.587343,-46.634914,buraco,2026-09-20,Vila Mariana
+110,-23.551092,-46.633996,buraco,2026-04-04,Sé
+111,-23.545108,-46.688038,buraco,2026-09-13,Pinheiros
+112,-23.55793,-46.644125,obstrucao_calcada,2026-01-12,Bela Vista
+113,-23.567708,-46.69269,buraco,2026-02-15,Pinheiros
+114,-23.581056,-46.649299,calcada_irregular,2026-10-10,Vila Mariana
+115,-23.570228,-46.693894,obstrucao_calcada,2026-09-01,Pinheiros
+116,-23.556143,-46.634365,calcada_irregular,2026-08-03,Liberdade
+117,-23.555589,-46.63515,escada_sem_rampa,2026-03-01,Liberdade
+118,-23.550729,-46.679704,calcada_irregular,2026-10-16,Pinheiros
+119,-23.542927,-46.63019,obstrucao_calcada,2026-06-05,Sé
+120,-23.543367,-46.630132,calcada_irregular,2026-02-27,Sé
+121,-23.541953,-46.630622,calcada_irregular,2026-08-28,Sé
+122,-23.543361,-46.629995,obstrucao_calcada,2026-09-18,Sé
+123,-23.555486,-46.635062,escada_sem_rampa,2026-09-11,Liberdade
+124,-23.555225,-46.63469,escada_sem_rampa,2026-03-27,Liberdade
+125,-23.567466,-46.696468,obstrucao_calcada,2026-08-11,Pinheiros
+126,-23.549126,-46.633189,buraco,2026-04-01,Sé
+127,-23.556776,-46.64395,obstrucao_calcada,2026-10-27,Bela Vista
+128,-23.585861,-46.675119,escada_sem_rampa,2026-04-28,Pinheiros
+129,-23.590696,-46.632198,calcada_irregular,2026-07-27,Vila Mariana
+130,-23.561341,-46.644092,calcada_irregular,2026-03-15,Bela Vista
+131,-23.550724,-46.632561,buraco,2026-07-10,Sé
+132,-23.558874,-46.646371,buraco,2026-08-20,Bela Vista
+133,-23.543949,-46.631272,obstrucao_calcada,2026-10-18,Sé
+134,-23.587832,-46.63479,calcada_irregular,2026-03-09,Vila Mariana
+135,-23.550374,-46.633849,buraco,2026-01-27,Sé
+136,-23.543413,-46.629982,obstrucao_calcada,2026-09-07,Sé
+137,-23.559669,-46.644882,calcada_irregular,2026-02-13,Bela Vista
+138,-23.556977,-46.645293,escada_sem_rampa,2026-03-18,Bela Vista
+139,-23.587223,-46.63611,calcada_irregular,2026-06-10,Vila Mariana
+140,-23.551539,-46.635709,calcada_irregular,2026-09-03,Sé
+141,-23.549649,-46.634121,obstrucao_calcada,2026-07-04,Sé
+142,-23.557765,-46.644807,calcada_irregular,2026-09-02,Bela Vista
+143,-23.568579,-46.694285,calcada_irregular,2026-08-17,Pinheiros
+144,-23.558201,-46.643637,calcada_irregular,2026-03-29,Bela Vista
+145,-23.543462,-46.630894,calcada_irregular,2026-07-25,Sé
+146,-23.561125,-46.670729,calcada_irregular,2026-10-24,Consolação
+147,-23.540841,-46.630261,calcada_irregular,2026-03-02,Sé
+148,-23.548721,-46.633003,obstrucao_calcada,2026-07-16,Sé
+149,-23.566829,-46.692593,buraco,2026-08-20,Pinheiros
+150,-23.551454,-46.637442,obstrucao_calcada,2026-08-04,Sé
+151,-23.548179,-46.633439,buraco,2026-10-24,Sé
+152,-23.54407,-46.628933,obstrucao_calcada,2026-01-07,Sé
+153,-23.558716,-46.643788,escada_sem_rampa,2026-09-28,Bela Vista
+154,-23.552646,-46.631733,calcada_irregular,2026-07-10,Sé
+155,-23.555255,-46.693733,calcada_irregular,2026-03-28,Pinheiros
+156,-23.53985,-46.629504,buraco,2026-10-02,Sé
+157,-23.571158,-46.646663,buraco,2026-05-27,Bela Vista
+158,-23.558844,-46.646911,escada_sem_rampa,2026-07-15,Bela Vista
+159,-23.567139,-46.692289,obstrucao_calcada,2026-08-13,Pinheiros
+160,-23.58865,-46.632285,buraco,2026-10-13,Vila Mariana
+161,-23.55535,-46.635691,escada_sem_rampa,2026-01-26,Liberdade
+162,-23.558403,-46.645226,escada_sem_rampa,2026-10-12,Bela Vista
+163,-23.557678,-46.644666,buraco,2026-01-18,Bela Vista
+164,-23.551587,-46.632397,buraco,2026-02-19,Sé
+165,-23.559056,-46.644391,escada_sem_rampa,2026-06-29,Bela Vista
+166,-23.576409,-46.693959,buraco,2026-02-12,Pinheiros
+167,-23.559226,-46.645047,escada_sem_rampa,2026-04-29,Bela Vista
+168,-23.566224,-46.6954,escada_sem_rampa,2026-04-16,Pinheiros
+169,-23.553243,-46.635883,obstrucao_calcada,2026-09-13,Sé
+170,-23.583025,-46.65494,buraco,2026-04-28,
+171,-23.587563,-46.636275,obstrucao_calcada,2026-07-13,Vila Mariana
+172,-23.550936,-46.633128,obstrucao_calcada,2026-03-10,Sé
+173,-23.560218,-46.645253,escada_sem_rampa,2026-09-23,Bela Vista
+174,-23.542324,-46.629813,obstrucao_calcada,2026-09-23,Sé
+175,-23.551343,-46.635504,buraco,2026-03-26,Sé
+176,-23.552687,-46.689253,calcada_irregular,2026-07-18,Pinheiros
+177,-23.58759,-46.633181,buraco,2026-04-26,Vila Mariana
+178,-23.589636,-46.631762,calcada_irregular,2026-08-07,Vila Mariana
+179,-23.556895,-46.648195,obstrucao_calcada,2026-07-06,Bela Vista
+180,-23.554997,-46.636311,calcada_irregular,2026-05-27,Liberdade
+181,-23.542297,-46.6305,buraco,2026-03-18,Sé
+182,-23.540685,-46.630781,buraco,2026-06-01,Sé
+183,-23.58912,-46.631973,obstrucao_calcada,2026-01-19,Vila Mariana
+184,-23.542661,-46.631377,obstrucao_calcada,2026-03-31,Sé
+185,-23.543509,-46.63181,obstrucao_calcada,2026-07-07,Sé
+186,-23.555057,-46.636474,buraco,2026-06-21,Liberdade
+187,-23.548724,-46.636371,obstrucao_calcada,2026-09-27,Sé
+188,-23.558092,-46.645382,escada_sem_rampa,2026-08-05,Bela Vista
+189,-23.569208,-46.693331,buraco,2026-10-29,Pinheiros
+190,-23.548964,-46.633545,calcada_irregular,2026-07-03,Sé
+191,-23.588248,-46.635007,calcada_irregular,2026-03-28,Vila Mariana
+192,-23.541983,-46.629078,obstrucao_calcada,2026-03-23,Sé
+193,-23.56786,-46.69482,obstrucao_calcada,2026-08-15,Pinheiros
+194,-23.558873,-46.645773,calcada_irregular,2026-10-04,Bela Vista
+195,-23.538834,-46.630795,buraco,2026-04-15,Sé
+196,-23.555951,-46.635549,escada_sem_rampa,2026-01-24,Liberdade
+197,-23.55422,-46.635218,calcada_irregular,2026-09-06,Sé
+198,-23.556672,-46.638137,calcada_irregular,2026-02-06,Liberdade
+199,-23.549222,-46.638032,calcada_irregular,2026-08-11,Sé
+200,-23.586651,-46.633652,calcada_irregular,2026-04-19,Vila Mariana
+201,-23.558151,-46.647159,escada_sem_rampa,2026-04-01,Bela Vista
+202,-23.543936,-46.630845,calcada_irregular,2026-01-20,Sé
+203,-23.568347,-46.695739,buraco,2026-03-17,Pinheiros
+204,-23.566854,-46.694174,buraco,2026-07-20,Pinheiros
+205,-23.542366,-46.633527,obstrucao_calcada,2026-09-16,Sé
+206,-23.551464,-46.632641,escada_sem_rampa,2026-06-03,Sé
+207,-23.55593,-46.634419,escada_sem_rampa,2026-05-02,Liberdade
+208,-23.569063,-46.694474,buraco,2026-07-28,Pinheiros
+209,-23.543409,-46.628718,calcada_irregular,2026-05-14,Sé
+210,-23.543169,-46.629875,obstrucao_calcada,2026-08-30,Sé
+211,-23.559408,-46.644572,escada_sem_rampa,2026-04-26,Bela Vista
+212,-23.550779,-46.633152,obstrucao_calcada,2026-02-17,Sé
+213,-23.548877,-46.633454,calcada_irregular,2026-07-01,Sé
+214,-23.556568,-46.634828,escada_sem_rampa,2026-05-08,Liberdade
+215,-23.557683,-46.645641,escada_sem_rampa,2026-04-08,Bela Vista
+216,-23.543167,-46.629185,obstrucao_calcada,2026-08-16,Sé
+217,-23.551766,-46.634689,calcada_irregular,2026-05-16,Sé
+218,-23.554897,-46.637239,calcada_irregular,2026-01-05,Liberdade
+219,-23.558943,-46.643485,buraco,2026-01-02,Bela Vista
+220,-23.549822,-46.632191,escada_sem_rampa,2026-03-31,Sé
+221,-23.560651,-46.64461,buraco,2026-07-03,Bela Vista
+222,-23.555012,-46.632763,escada_sem_rampa,2026-08-01,Sé
+223,-23.543377,-46.630151,escada_sem_rampa,2026-06-01,Sé
+224,-23.587905,-46.631818,escada_sem_rampa,2026-08-05,Vila Mariana
+225,-23.5435,-46.630939,calcada_irregular,2026-04-15,Sé
+226,-23.558324,-46.646824,calcada_irregular,2026-09-28,Bela Vista
+227,-23.558549,-46.644804,calcada_irregular,2026-06-02,Bela Vista
+228,-23.542929,-46.632573,obstrucao_calcada,2026-03-17,Sé
+229,-23.551722,-46.633436,calcada_irregular,2026-08-15,Sé
+230,-23.564837,-46.692399,buraco,2026-03-18,Pinheiros
+231,-23.557541,-46.645875,calcada_irregular,2026-09-07,Bela Vista
+232,-23.541919,-46.645128,buraco,2026-02-12,República
+233,-23.559617,-46.643704,calcada_irregular,2026-09-28,Bela Vista
+234,-23.566639,-46.692704,buraco,2026-09-18,Pinheiros
+235,-23.5463,-46.642929,calcada_irregular,2026-02-13,República
+236,-23.554926,-46.636248,calcada_irregular,2026-05-30,Sé
+237,-23.542536,-46.630836,buraco,2026-03-28,Sé
+238,-23.565961,-46.694603,calcada_irregular,2026-06-26,Pinheiros
+239,-23.568108,-46.628047,buraco,2026-01-27,Liberdade
+240,-23.584551,-46.636771,obstrucao_calcada,2026-02-01,Vila Mariana
+241,-23.579119,-46.6807,obstrucao_calcada,2026-06-13,Pinheiros
+242,-23.570023,-46.69457,buraco,2026-06-22,Pinheiros
+243,-23.590612,-46.634278,buraco,2026-06-22,Vila Mariana
+244,-23.550455,-46.63313,obstrucao_calcada,2026-06-08,Sé
+245,-23.562908,-46.627672,calcada_irregular,2026-06-07,Liberdade
+246,-23.561137,-46.694252,calcada_irregular,2026-05-29,Pinheiros
+247,-23.556654,-46.645679,escada_sem_rampa,2026-07-05,Bela Vista
+248,-23.59032,-46.632559,buraco,2026-01-25,Vila Mariana
+249,-23.555675,-46.63414,obstrucao_calcada,2026-03-09,Liberdade
+250,-23.567399,-46.692169,buraco,2026-08-25,Pinheiros
+251,-23.569096,-46.695277,calcada_irregular,2026-05-29,Pinheiros
+252,-23.585541,-46.635459,buraco,2026-06-16,Vila Mariana
+253,-23.550879,-46.634142,obstrucao_calcada,2026-05-31,Sé
+254,-23.55867,-46.64501,escada_sem_rampa,2026-04-05,Bela Vista
+255,-23.565432,-46.693517,buraco,2026-09-19,Pinheiros
+256,-23.542189,-46.630128,calcada_irregular,2026-02-13,Sé
+257,-23.542862,-46.633032,escada_sem_rampa,2026-05-01,Sé
+258,-23.577093,-46.697986,escada_sem_rampa,2026-06-28,Pinheiros
+259,-23.591753,-46.631887,calcada_irregular,2026-08-03,Vila Mariana
+260,-23.59154,-46.690716,buraco,2026-09-21,Pinheiros
+261,-23.541916,-46.632242,obstrucao_calcada,2026-09-06,Sé
+262,-23.549282,-46.633431,buraco,2026-10-25,Sé
+263,-23.590408,-46.632718,calcada_irregular,2026-06-06,Vila Mariana
+264,-23.556581,-46.634737,escada_sem_rampa,2026-06-03,Liberdade
+265,-23.556881,-46.635881,obstrucao_calcada,2026-04-17,Liberdade
+266,-23.551738,-46.632124,obstrucao_calcada,2026-02-03,Sé
+267,-23.558774,-46.699729,buraco,2026-08-31,Pinheiros
+268,-23.550255,-46.633721,obstrucao_calcada,2026-06-29,Sé
+269,-23.565445,-46.694839,calcada_irregular,2026-08-06,Pinheiros
+270,-23.558538,-46.643924,escada_sem_rampa,2026-06-02,Bela Vista
+271,-23.591855,-46.634595,buraco,2026-03-08,Vila Mariana
+272,-23.549742,-46.63902,calcada_irregular,2026-06-14,Sé
+273,-23.549596,-46.635187,obstrucao_calcada,2026-10-06,Sé
+274,-23.543381,-46.629583,obstrucao_calcada,2026-01-21,Sé
+275,-23.558907,-46.645341,escada_sem_rampa,2026-06-14,Bela Vista
+276,-23.542758,-46.631812,obstrucao_calcada,2026-02-10,Sé
+277,-23.544027,-46.631292,obstrucao_calcada,2026-08-20,
+278,-23.543691,-46.631056,buraco,2026-03-12,Sé
+279,-23.557541,-46.645453,calcada_irregular,2026-03-14,Bela Vista
+280,-23.543523,-46.628942,calcada_irregular,2026-02-09,Sé
+281,-23.544106,-46.630066,obstrucao_calcada,2026-03-21,Sé
+282,-23.559487,-46.646391,escada_sem_rampa,2026-03-05,Bela Vista
+283,-23.548913,-46.633515,buraco,2026-04-08,Sé
+284,-23.550282,-46.635182,obstrucao_calcada,2026-05-16,Sé
+285,-23.543994,-46.629481,calcada_irregular,2026-04-16,Sé
+286,-23.564736,-46.694847,calcada_irregular,2026-02-20,Pinheiros
+287,-23.554849,-46.654178,buraco,2026-10-31,Consolação
+288,-23.549978,-46.635379,obstrucao_calcada,2026-02-04,Sé
+289,-23.576509,-46.650766,escada_sem_rampa,2026-06-06,Bela Vista
+290,-23.558891,-46.645114,calcada_irregular,2026-06-04,Bela Vista
+291,-23.560958,-46.644956,escada_sem_rampa,2026-09-27,Bela Vista
+292,-23.550224,-46.632728,obstrucao_calcada,2026-06-18,Sé
+293,-23.548769,-46.634463,buraco,2026-09-07,Sé
+294,-23.556527,-46.63669,calcada_irregular,2026-01-08,Liberdade
+295,-23.560091,-46.646259,calcada_irregular,2026-03-06,Bela Vista
+296,-23.567944,-46.693283,obstrucao_calcada,2026-06-05,Pinheiros
+297,-23.58778,-46.635183,obstrucao_calcada,2026-07-13,Vila Mariana
+298,-23.566519,-46.692743,buraco,2026-04-17,Pinheiros
+299,-23.585109,-46.63321,calcada_irregular,2026-05-14,Vila Mariana
+300,-23.558246,-46.646258,obstrucao_calcada,2026-10-09,Bela Vista
+301,-23.544819,-46.630797,obstrucao_calcada,2026-08-06,Sé
+302,-23.555268,-46.636462,escada_sem_rampa,2026-01-04,Liberdade
+303,-23.543458,-46.629119,obstrucao_calcada,2026-08-16,Sé
+304,-23.556423,-46.635198,calcada_irregular,2026-04-06,Liberdade
+305,-23.555486,-46.635408,obstrucao_calcada,2026-04-19,Liberdade
+306,-23.554425,-46.635454,escada_sem_rampa,2026-07-17,Sé
+307,-23.550227,-46.635193,escada_sem_rampa,2026-04-26,Sé
+308,-23.545119,-46.644869,calcada_irregular,2026-07-30,República
+309,-23.557592,-46.647973,calcada_irregular,2026-04-07,Bela Vista
+310,-23.573115,-46.686354,buraco,2026-05-22,Pinheiros
+311,-23.543444,-46.6313,obstrucao_calcada,2026-03-31,Sé
+312,-23.556306,-46.635792,calcada_irregular,2026-03-09,
+313,-23.550556,-46.634567,obstrucao_calcada,2026-10-13,Sé
+314,-23.54253,-46.633202,buraco,2026-09-26,Sé
+315,-23.569991,-46.693225,buraco,2026-07-14,Pinheiros
+316,-23.555046,-46.636436,escada_sem_rampa,2026-08-31,Liberdade
+317,-23.558815,-46.644744,buraco,2026-03-18,Bela Vista
+318,-23.577356,-46.676592,calcada_irregular,2026-04-03,Pinheiros
+319,-23.555584,-46.635758,calcada_irregular,2026-09-09,Liberdade
+320,-23.549494,-46.666153,buraco,2026-08-05,Consolação
+321,-23.551606,-46.634203,escada_sem_rampa,2026-06-15,Sé
+322,-23.566545,-46.695492,buraco,2026-10-28,Pinheiros
+323,-23.557328,-46.645424,calcada_irregular,2026-10-09,Bela Vista
+324,-23.567791,-46.696855,buraco,2026-05-10,Pinheiros
+325,-23.58847,-46.632097,calcada_irregular,2026-10-19,Vila Mariana
+326,-23.542094,-46.63147,obstrucao_calcada,2026-10-13,Sé
+327,-23.56571,-46.691787,calcada_irregular,2026-01-12,Pinheiros
+328,-23.557732,-46.64259,buraco,2026-01-02,Bela Vista
+329,-23.590032,-46.63464,buraco,2026-09-02,Vila Mariana
+330,-23.55661,-46.683354,obstrucao_calcada,2026-03-04,Pinheiros
+331,-23.566983,-46.692589,calcada_irregular,2026-03-08,Pinheiros
+332,-23.5679,-46.692847,obstrucao_calcada,2026-10-24,Pinheiros
+333,-23.542534,-46.632122,obstrucao_calcada,2026-06-09,Sé
+334,-23.543976,-46.630337,obstrucao_calcada,2026-05-14,Sé
+335,-23.550554,-46.636345,obstrucao_calcada,2026-02-07,Sé
+336,-23.549493,-46.633473,obstrucao_calcada,2026-06-15,Sé
+337,-23.549986,-46.635433,calcada_irregular,2026-01-13,Sé
+338,-23.569139,-46.692455,calcada_irregular,2026-02-03,Pinheiros
+339,-23.5546,-46.635166,calcada_irregular,2026-03-25,Sé
+340,-23.565129,-46.693325,buraco,2026-10-20,Pinheiros
+341,-23.558076,-46.645675,obstrucao_calcada,2026-01-16,Bela Vista
+342,-23.588212,-46.637274,buraco,2026-07-18,Vila Mariana
+343,-23.555802,-46.633801,escada_sem_rampa,2026-06-10,Liberdade
+344,-23.55794,-46.645206,escada_sem_rampa,2026-08-18,Bela Vista
+345,-23.568259,-46.695739,escada_sem_rampa,2026-04-24,Pinheiros
+346,-23.565987,-46.689801,obstrucao_calcada,2026-07-16,Pinheiros
+347,-23.566646,-46.694613,calcada_irregular,2026-05-21,Pinheiros
+348,-23.542142,-46.630292,buraco,2026-09-19,Sé
+349,-23.549875,-46.63474,calcada_irregular,2026-09-02,Sé
+350,-23.5581,-46.647444,calcada_irregular,2026-02-02,Bela Vista
+351,-23.589781,-46.695673,buraco,2026-01-31,Pinheiros
+352,-23.556997,-46.642589,escada_sem_rampa,2026-05-14,Bela Vista
+353,-23.551531,-46.632556,escada_sem_rampa,2026-09-29,Sé
+354,-23.556042,-46.636196,buraco,2026-07-22,
+355,-23.549497,-46.635599,calcada_irregular,2026-02-11,Sé
+356,-23.590481,-46.635115,calcada_irregular,2026-07-28,Vila Mariana
+357,-23.542738,-46.630089,calcada_irregular,2026-04-30,Sé
+358,-23.549303,-46.634017,calcada_irregular,2026-06-22,Sé
+359,-23.586881,-46.633575,calcada_irregular,2026-03-13,Vila Mariana
+360,-23.564387,-46.691614,buraco,2026-05-09,Pinheiros
+361,-23.551461,-46.633538,escada_sem_rampa,2026-09-28,Sé
+362,-23.591326,-46.688427,calcada_irregular,2026-01-22,Pinheiros
+363,-23.566013,-46.690665,calcada_irregular,2026-07-04,Pinheiros
+364,-23.54431,-46.699673,escada_sem_rampa,2026-04-06,Pinheiros
+365,-23.548896,-46.635146,buraco,2026-10-28,Sé
+366,-23.566581,-46.693953,buraco,2026-06-06,Pinheiros
+367,-23.554752,-46.631249,calcada_irregular,2026-03-30,Sé
+368,-23.544225,-46.632309,obstrucao_calcada,2026-05-03,Sé
+369,-23.544824,-46.628353,obstrucao_calcada,2026-02-15,Sé
+370,-23.560651,-46.64461,buraco,2026-07-03,Bela Vista
+371,-23.54388,-46.631155,buraco,2026-09-24,Sé
+372,-23.555329,-46.634964,escada_sem_rampa,2026-01-18,Liberdade
+373,-23.558987,-46.64624,buraco,2026-09-25,Bela Vista
+374,-23.550317,-46.633464,calcada_irregular,2026-02-22,Sé
+375,-23.545216,-46.629405,obstrucao_calcada,2026-03-31,Sé
+376,-23.558522,-46.644876,escada_sem_rampa,2026-04-03,Bela Vista
+377,-23.541956,-46.67725,buraco,2026-01-30,Consolação
+378,-23.585305,-46.636427,calcada_irregular,2026-04-24,Vila Mariana
+379,-23.550807,-46.633078,calcada_irregular,2026-08-20,Sé
+380,-23.542829,-46.628967,calcada_irregular,2026-01-27,Sé
+381,-23.544293,-46.629523,obstrucao_calcada,2026-08-10,Sé
+382,-23.557844,-46.644004,calcada_irregular,2026-03-16,Bela Vista
+383,-23.543392,-46.628443,calcada_irregular,2026-05-11,Sé
+384,-23.578303,-46.672649,calcada_irregular,2026-03-05,
+385,-23.578835,-46.680861,calcada_irregular,2026-07-21,Pinheiros
+386,-23.565971,-46.693079,calcada_irregular,2026-01-09,Pinheiros
+387,-23.548153,-46.631298,obstrucao_calcada,2026-02-24,
+388,-23.557903,-46.645788,calcada_irregular,2026-08-13,Bela Vista
+389,-23.55786,-46.633778,calcada_irregular,2026-01-31,Liberdade
+390,-23.558407,-46.645256,escada_sem_rampa,2026-03-06,Bela Vista
+391,-23.551667,-46.631965,calcada_irregular,2026-09-28,Sé
+392,-23.55929,-46.646695,escada_sem_rampa,2026-07-27,Bela Vista
+393,-23.544408,-46.631271,buraco,2026-02-12,Sé
+394,-23.549499,-46.633378,calcada_irregular,2026-05-16,Sé
+395,-23.58915,-46.63294,calcada_irregular,2026-03-26,Vila Mariana
+396,-23.567458,-46.692775,buraco,2026-02-27,Pinheiros
+397,-23.544009,-46.630461,calcada_irregular,2026-04-06,Sé
+398,-23.544078,-46.630579,obstrucao_calcada,2026-04-10,Sé
+399,-23.56061,-46.645427,calcada_irregular,2026-07-09,Bela Vista
+400,-23.554718,-46.636164,calcada_irregular,2026-02-09,Sé
+401,-23.55255,-46.632114,obstrucao_calcada,2026-07-18,Sé
+402,-23.557646,-46.645204,escada_sem_rampa,2026-01-26,Bela Vista
+403,-23.558752,-46.647091,escada_sem_rampa,2026-03-03,Bela Vista
+404,-23.542824,-46.628765,obstrucao_calcada,2026-01-20,Sé
+405,-23.549608,-46.633836,obstrucao_calcada,2026-09-12,Sé
+406,-23.556568,-46.634266,escada_sem_rampa,2026-02-18,Liberdade
+407,-23.549435,-46.635757,buraco,2026-07-05,Sé
+408,-23.566943,-46.696217,calcada_irregular,2026-01-19,Pinheiros
+409,-23.550836,-46.634039,buraco,2026-05-11,Sé
+410,-23.558332,-46.645352,calcada_irregular,2026-03-28,Bela Vista
+411,-23.543449,-46.627755,obstrucao_calcada,2026-05-18,Sé
+412,-23.56371,-46.626333,obstrucao_calcada,2026-05-03,Liberdade
+413,-23.554831,-46.635624,escada_sem_rampa,2026-02-16,Sé
+414,-23.567499,-46.696512,buraco,2026-06-25,Pinheiros
+415,-23.541268,-46.632365,obstrucao_calcada,2026-08-01,Sé
+416,-23.559786,-46.651296,obstrucao_calcada,2026-07-17,Bela Vista
+417,-23.558876,-46.645459,escada_sem_rampa,2026-06-02,Bela Vista
+418,-23.550609,-46.634767,buraco,2026-03-16,Sé
+419,-23.545998,-46.651409,calcada_irregular,2026-08-02,República
+420,-23.549319,-46.634234,obstrucao_calcada,2026-01-15,Sé
+421,-23.556278,-46.634646,obstrucao_calcada,2026-07-16,Liberdade
+422,-23.543922,-46.631124,obstrucao_calcada,2026-10-24,Sé
+423,-23.556657,-46.646194,escada_sem_rampa,2026-01-10,Bela Vista
+424,-23.587584,-46.633936,calcada_irregular,2026-07-03,Vila Mariana
+425,-23.542305,-46.629552,calcada_irregular,2026-03-08,Sé
+426,-23.589078,-46.631798,calcada_irregular,2026-06-13,Vila Mariana
+427,-23.548487,-46.632015,calcada_irregular,2026-09-28,Sé
+428,-23.543716,-46.629982,buraco,2026-10-08,Sé
+429,-23.547897,-46.632366,obstrucao_calcada,2026-05-03,
+430,-23.567227,-46.695019,obstrucao_calcada,2026-09-28,Pinheiros
+431,-23.568801,-46.694804,escada_sem_rampa,2026-05-09,Pinheiros
+432,-23.555415,-46.637721,calcada_irregular,2026-08-19,Liberdade
+433,-23.55514,-46.637281,obstrucao_calcada,2026-10-12,Liberdade
+434,-23.568186,-46.694427,buraco,2026-01-12,Pinheiros
+435,-23.549904,-46.63369,obstrucao_calcada,2026-09-04,Sé
+436,-23.55813,-46.646768,escada_sem_rampa,2026-07-19,Bela Vista
+437,-23.544434,-46.630112,calcada_irregular,2026-07-05,Sé
+438,-23.562291,-46.642923,buraco,2026-06-11,Bela Vista
+439,-23.586567,-46.679537,calcada_irregular,2026-07-08,Pinheiros
+440,-23.543879,-46.629846,obstrucao_calcada,2026-03-20,Sé
+441,-23.538167,-46.698781,buraco,2026-09-14,Pinheiros
+442,-23.565972,-46.693945,buraco,2026-10-17,Pinheiros
+443,-23.540971,-46.631497,obstrucao_calcada,2026-06-23,Sé
+444,-23.560444,-46.699938,buraco,2026-01-10,Pinheiros
+445,-23.586494,-46.666366,obstrucao_calcada,2026-04-23,Vila Mariana
+446,-23.560024,-46.646621,buraco,2026-09-07,Bela Vista
+447,-23.574184,-46.696439,buraco,2026-05-21,Pinheiros
+448,-23.542827,-46.629522,obstrucao_calcada,2026-09-09,Sé
+449,-23.573455,-46.658374,calcada_irregular,2026-07-04,Bela Vista
+450,-23.558167,-46.644404,escada_sem_rampa,2026-10-22,Bela Vista
+451,-23.544098,-46.628753,calcada_irregular,2026-08-26,Sé
+452,-23.566892,-46.692772,escada_sem_rampa,2026-10-29,Pinheiros
+453,-23.586246,-46.6495,buraco,2026-10-09,Vila Mariana
+454,-23.589149,-46.632641,buraco,2026-07-15,Vila Mariana
+455,-23.567221,-46.698592,calcada_irregular,2026-05-27,Pinheiros
+456,-23.543342,-46.630692,obstrucao_calcada,2026-08-01,Sé
+457,-23.586647,-46.688625,buraco,2026-10-16,Pinheiros
+458,-23.541089,-46.631437,buraco,2026-08-30,Sé
+459,-23.553398,-46.63603,escada_sem_rampa,2026-03-26,Sé
+460,-23.550702,-46.63382,calcada_irregular,2026-09-19,Sé
+461,-23.558065,-46.643567,calcada_irregular,2026-07-24,Bela Vista
+462,-23.566259,-46.694219,obstrucao_calcada,2026-09-07,Pinheiros
+463,-23.544172,-46.62805,calcada_irregular,2026-09-17,Sé
+464,-23.550365,-46.634389,buraco,2026-04-15,Sé
+465,-23.567221,-46.698592,calcada_irregular,2026-05-27,Pinheiros
+466,-23.559814,-46.642486,calcada_irregular,2026-04-18,Bela Vista
+467,-23.580342,-46.632417,calcada_irregular,2026-09-04,Vila Mariana
+468,-23.560354,-46.646488,calcada_irregular,2026-09-14,Bela Vista
+469,-23.591717,-46.634818,calcada_irregular,2026-09-06,Vila Mariana
+470,-23.554345,-46.634647,calcada_irregular,2026-01-03,Sé
+471,-23.565401,-46.695356,buraco,2026-01-05,Pinheiros
+472,-23.556261,-46.635705,buraco,2026-09-03,Liberdade
+473,-23.566398,-46.691514,buraco,2026-01-28,Pinheiros
+474,-23.556604,-46.646819,calcada_irregular,2026-10-14,Bela Vista
+475,-23.568829,-46.693617,buraco,2026-08-19,Pinheiros
+476,-23.560662,-46.670896,calcada_irregular,2026-01-11,Consolação
+477,-23.565996,-46.695613,escada_sem_rampa,2026-08-06,Pinheiros
+478,-23.56844,-46.692281,buraco,2026-03-26,Pinheiros
+479,-23.569942,-46.695212,buraco,2026-09-04,Pinheiros
+480,-23.555203,-46.629724,calcada_irregular,2026-03-17,
+481,-23.557856,-46.644292,calcada_irregular,2026-07-06,Bela Vista
+482,-23.556035,-46.635047,buraco,2026-04-13,Liberdade
+483,-23.586727,-46.635149,obstrucao_calcada,2026-07-08,Vila Mariana
+484,-23.538762,-46.651518,escada_sem_rampa,2026-03-19,República
+485,-23.543888,-46.629958,buraco,2026-10-21,Sé
+486,-23.543922,-46.630107,obstrucao_calcada,2026-04-28,Sé
+487,-23.558038,-46.644773,escada_sem_rampa,2026-03-05,Bela Vista
+488,-23.587932,-46.638066,calcada_irregular,2026-09-28,Vila Mariana
+489,-23.542967,-46.630073,obstrucao_calcada,2026-04-23,Sé
+490,-23.560213,-46.655167,buraco,2026-03-26,Bela Vista
+491,-23.543334,-46.628457,obstrucao_calcada,2026-09-25,Sé
+492,-23.541848,-46.628608,buraco,2026-04-17,Sé
+493,-23.547716,-46.632348,obstrucao_calcada,2026-03-12,Sé
+494,-23.551002,-46.630914,buraco,2026-05-09,Sé
+495,-23.567568,-46.692528,obstrucao_calcada,2026-03-02,Pinheiros
+496,-23.56476,-46.692276,buraco,2026-01-25,Pinheiros
+497,-23.557949,-46.64419,escada_sem_rampa,2026-05-25,Bela Vista
+498,-23.542749,-46.628031,calcada_irregular,2026-01-31,Sé
+499,-23.560001,-46.6444,obstrucao_calcada,2026-06-12,Bela Vista
+500,-23.54324,-46.631748,obstrucao_calcada,2026-10-29,Sé
+501,-23.554476,-46.635883,obstrucao_calcada,2026-06-20,Sé
+502,-23.557183,-46.645184,escada_sem_rampa,2026-05-07,Bela Vista
+503,-23.56689,-46.691784,buraco,2026-01-27,Pinheiros
+504,-23.549367,-46.633343,calcada_irregular,2026-03-10,Sé
+505,-23.549459,-46.633398,buraco,2026-03-11,Sé
+506,-23.568255,-46.696108,calcada_irregular,2026-02-26,Pinheiros
+507,-23.587298,-46.634236,buraco,2026-01-22,Vila Mariana
+508,-23.557631,-46.645673,calcada_irregular,2026-07-16,Bela Vista
+509,-23.567595,-46.691788,buraco,2026-01-29,Pinheiros
+510,-23.554595,-46.684606,calcada_irregular,2026-09-06,Pinheiros
+511,-23.549556,-46.690334,calcada_irregular,2026-02-28,Pinheiros
+512,-23.589013,-46.634285,calcada_irregular,2026-08-03,Vila Mariana
+513,-23.542671,-46.632226,escada_sem_rampa,2026-06-08,Sé
+514,-23.551029,-46.635003,calcada_irregular,2026-06-21,Sé
+515,-23.57339,-46.627699,calcada_irregular,2026-03-03,Liberdade
+516,-23.557753,-46.644503,calcada_irregular,2026-06-20,Bela Vista
+517,-23.588509,-46.634228,calcada_irregular,2026-01-23,Vila Mariana
+518,-23.555464,-46.63544,calcada_irregular,2026-09-02,Liberdade
+519,-23.543492,-46.629532,obstrucao_calcada,2026-04-25,Sé
+520,-23.55814,-46.646348,calcada_irregular,2026-01-05,Bela Vista
+521,-23.542614,-46.630225,obstrucao_calcada,2026-07-30,Sé
+522,-23.554809,-46.635186,buraco,2026-06-22,Sé
+523,-23.542281,-46.629577,obstrucao_calcada,2026-05-17,Sé
+524,-23.541956,-46.67725,buraco,2026-01-30,Consolação
+525,-23.542763,-46.633252,calcada_irregular,2026-10-11,Sé
+526,-23.567811,-46.690478,obstrucao_calcada,2026-09-24,Pinheiros
+527,-23.59197,-46.633956,buraco,2026-08-08,Vila Mariana
+528,-23.5516,-46.634562,obstrucao_calcada,2026-10-23,Sé
+529,-23.543207,-46.630113,obstrucao_calcada,2026-07-20,Sé
+530,-23.544488,-46.630048,obstrucao_calcada,2026-01-11,Sé
+531,-23.550677,-46.63278,obstrucao_calcada,2026-09-04,Sé
+532,-23.565599,-46.693054,buraco,2026-08-10,Pinheiros
+533,-23.549799,-46.635021,obstrucao_calcada,2026-07-16,Sé
+534,-23.58612,-46.637168,calcada_irregular,2026-08-27,Vila Mariana
+535,-23.560075,-46.646484,escada_sem_rampa,2026-03-07,Bela Vista
+536,-23.567328,-46.694263,buraco,2026-02-21,Pinheiros
+537,-23.557727,-46.695225,obstrucao_calcada,2026-09-25,Pinheiros
+538,-23.560049,-46.644643,calcada_irregular,2026-01-19,Bela Vista
+539,-23.550491,-46.633389,buraco,2026-06-12,Sé
+540,-23.554405,-46.635196,escada_sem_rampa,2026-10-12,Sé
+541,-23.542094,-46.629672,calcada_irregular,2026-09-06,Sé
+542,-23.542554,-46.630658,obstrucao_calcada,2026-05-14,Sé
+543,-23.559523,-46.645229,escada_sem_rampa,2026-03-26,Bela Vista
+544,-23.54142,-46.632246,obstrucao_calcada,2026-08-01,Sé
+545,-23.555679,-46.635812,buraco,2026-08-29,Liberdade
+546,-23.543044,-46.631331,obstrucao_calcada,2026-06-17,Sé
+547,-23.55734,-46.635104,obstrucao_calcada,2026-05-10,Liberdade
+548,-23.544325,-46.630964,obstrucao_calcada,2026-06-18,Sé
+549,-23.558176,-46.647278,buraco,2026-03-13,Bela Vista
+550,-23.541595,-46.629748,obstrucao_calcada,2026-01-03,Sé
+551,-23.567965,-46.692578,buraco,2026-04-02,Pinheiros
+552,-23.55732,-46.643156,escada_sem_rampa,2026-05-07,Bela Vista
+553,-23.542463,-46.630887,calcada_irregular,2026-02-16,Sé
+554,-23.588581,-46.634604,escada_sem_rampa,2026-05-11,Vila Mariana
+555,-23.550904,-46.636695,buraco,2026-01-10,Sé
+556,-23.543354,-46.630904,calcada_irregular,2026-06-23,Sé
+557,-23.589945,-46.635593,buraco,2026-07-25,Vila Mariana
+558,-23.542313,-46.629321,obstrucao_calcada,2026-02-18,Sé
+559,-23.566538,-46.694632,calcada_irregular,2026-08-12,Pinheiros
+560,-23.555027,-46.63476,buraco,2026-03-25,Sé
+561,-23.54134,-46.630267,calcada_irregular,2026-05-15,Sé
+562,-23.542413,-46.630127,obstrucao_calcada,2026-06-03,Sé
+563,-23.542092,-46.629137,calcada_irregular,2026-01-15,Sé
+564,-23.557225,-46.635101,buraco,2026-02-20,Liberdade
+565,-23.552202,-46.634975,buraco,2026-01-20,Sé
+566,-23.588145,-46.630032,obstrucao_calcada,2026-04-22,Vila Mariana
+567,-23.586947,-46.658493,escada_sem_rampa,2026-03-13,Vila Mariana
+568,-23.557703,-46.643784,escada_sem_rampa,2026-02-27,Bela Vista
+569,-23.560061,-46.642514,calcada_irregular,2026-08-10,Bela Vista
+570,-23.543463,-46.630789,obstrucao_calcada,2026-09-16,Sé
+571,-23.566888,-46.691119,buraco,2026-01-17,Pinheiros
+572,-23.569009,-46.697102,calcada_irregular,2026-04-23,Pinheiros
+573,-23.566269,-46.691983,obstrucao_calcada,2026-10-12,Pinheiros
+574,-23.587652,-46.636287,buraco,2026-02-02,Vila Mariana
+575,-23.549992,-46.634516,buraco,2026-10-31,Sé
+576,-23.554902,-46.636049,calcada_irregular,2026-03-21,Sé
+577,-23.590169,-46.632091,calcada_irregular,2026-09-04,Vila Mariana
+578,-23.55125,-46.6369,obstrucao_calcada,2026-01-23,Sé
+579,-23.560496,-46.646503,escada_sem_rampa,2026-06-24,Bela Vista
+580,-23.551834,-46.631165,obstrucao_calcada,2026-06-10,Sé
+581,-23.567011,-46.693895,buraco,2026-07-25,Pinheiros
+582,-23.558376,-46.689017,obstrucao_calcada,2026-04-09,Pinheiros
+583,-23.558872,-46.645939,escada_sem_rampa,2026-04-19,Bela Vista
+584,-23.546291,-46.632643,calcada_irregular,2026-09-01,Sé
+585,-23.541293,-46.630639,calcada_irregular,2026-09-03,Sé
+586,-23.54205,-46.627074,obstrucao_calcada,2026-08-10,Sé
+587,-23.568863,-46.694529,buraco,2026-01-08,Pinheiros
+588,-23.568661,-46.690531,buraco,2026-03-03,Pinheiros
+589,-23.543362,-46.63032,obstrucao_calcada,2026-01-18,Sé
+590,-23.552188,-46.634856,buraco,2026-09-01,Sé
+591,-23.589409,-46.692786,buraco,2026-08-24,Pinheiros
+592,-23.551712,-46.636588,calcada_irregular,2026-10-11,Sé
+593,-23.55587,-46.635831,obstrucao_calcada,2026-03-27,Liberdade
+594,-23.551737,-46.633479,calcada_irregular,2026-03-12,Sé
+595,-23.579785,-46.647506,calcada_irregular,2026-06-05,Vila Mariana
+596,-23.56732,-46.693547,obstrucao_calcada,2026-04-05,Pinheiros
+597,-23.55733,-46.634286,escada_sem_rampa,2026-03-04,Liberdade
+598,-23.558139,-46.646037,escada_sem_rampa,2026-10-04,Bela Vista
+599,-23.591776,-46.6349,calcada_irregular,2026-09-01,Vila Mariana
+600,-23.555019,-46.634796,calcada_irregular,2026-10-11,Sé
+601,-23.55844,-46.645156,calcada_irregular,2026-05-15,Bela Vista
+602,-23.550135,-46.634726,obstrucao_calcada,2026-10-06,Sé
+603,-23.591581,-46.631296,calcada_irregular,2026-10-06,Vila Mariana
+604,-23.555226,-46.636254,escada_sem_rampa,2026-03-19,Liberdade
+605,-23.550261,-46.633928,calcada_irregular,2026-04-28,Sé
+606,-23.550194,-46.630636,obstrucao_calcada,2026-03-21,Sé
+607,-23.542846,-46.630572,obstrucao_calcada,2026-04-18,Sé
+608,-23.568045,-46.689307,buraco,2026-10-07,Pinheiros
+609,-23.558623,-46.644645,escada_sem_rampa,2026-03-21,Bela Vista
+610,-23.567589,-46.694387,calcada_irregular,2026-05-15,Pinheiros
+611,-23.542922,-46.628594,obstrucao_calcada,2026-02-15,Sé
+612,-23.551038,-46.633837,calcada_irregular,2026-09-22,Sé
+613,-23.567884,-46.696091,calcada_irregular,2026-07-07,Pinheiros
+614,-23.565633,-46.695297,buraco,2026-07-28,Pinheiros
+615,-23.542517,-46.63189,calcada_irregular,2026-10-27,Sé
+616,-23.539402,-46.640701,obstrucao_calcada,2026-09-07,República
+617,-23.55821,-46.644051,escada_sem_rampa,2026-01-23,Bela Vista
+618,-23.555952,-46.637899,obstrucao_calcada,2026-10-13,Liberdade
+619,-23.553738,-46.635536,buraco,2026-05-23,Sé
+620,-23.592098,-46.634537,buraco,2026-03-30,Vila Mariana
+621,-23.542159,-46.630611,obstrucao_calcada,2026-01-09,Sé
+622,-23.549226,-46.634767,calcada_irregular,2026-10-29,Sé
+623,-23.589959,-46.681664,calcada_irregular,2026-01-02,Pinheiros
+624,-23.556012,-46.627656,buraco,2026-08-05,Sé
+625,-23.543719,-46.630615,calcada_irregular,2026-08-08,Sé
+626,-23.542584,-46.63023,buraco,2026-05-16,Sé
+627,-23.550813,-46.633434,calcada_irregular,2026-06-22,Sé
+628,-23.559075,-46.646016,calcada_irregular,2026-04-24,Bela Vista
+629,-23.590172,-46.634172,calcada_irregular,2026-05-23,Vila Mariana
+630,-23.586449,-46.63366,calcada_irregular,2026-07-06,Vila Mariana
+631,-23.559219,-46.643521,escada_sem_rampa,2026-03-22,Bela Vista
+632,-23.558099,-46.643939,escada_sem_rampa,2026-03-09,Bela Vista
+633,-23.557659,-46.646381,obstrucao_calcada,2026-06-15,Bela Vista
+634,-23.568724,-46.655734,buraco,2026-02-28,Bela Vista
+635,-23.588751,-46.63449,calcada_irregular,2026-01-24,Vila Mariana
+636,-23.556359,-46.636031,obstrucao_calcada,2026-08-29,Liberdade
+637,-23.550579,-46.633341,buraco,2026-07-05,Sé
+638,-23.550244,-46.63248,calcada_irregular,2026-08-31,Sé
+639,-23.543929,-46.632018,obstrucao_calcada,2026-10-09,
+640,-23.547734,-46.685858,calcada_irregular,2026-05-11,Pinheiros
+641,-23.550044,-46.635878,calcada_irregular,2026-05-20,Sé
+642,-23.539067,-46.683832,obstrucao_calcada,2026-06-18,Consolação
+643,-23.586368,-46.637739,calcada_irregular,2026-01-09,Vila Mariana
+644,-23.542809,-46.628199,calcada_irregular,2026-05-07,Sé
+645,-23.542691,-46.632029,obstrucao_calcada,2026-10-04,Sé
+646,-23.543979,-46.631111,obstrucao_calcada,2026-04-08,Sé
+647,-23.558608,-46.644857,calcada_irregular,2026-03-17,Bela Vista
+648,-23.541678,-46.628461,obstrucao_calcada,2026-05-26,Sé
+649,-23.551869,-46.633833,obstrucao_calcada,2026-08-27,Sé
+650,-23.554276,-46.635982,escada_sem_rampa,2026-07-11,Sé
+651,-23.563713,-46.68604,calcada_irregular,2026-03-28,Pinheiros
+652,-23.564381,-46.693446,obstrucao_calcada,2026-06-14,
+653,-23.589651,-46.635594,calcada_irregular,2026-09-02,Vila Mariana
+654,-23.551877,-46.636106,calcada_irregular,2026-06-05,Sé
+655,-23.558978,-46.64497,buraco,2026-03-08,Bela Vista
+656,-23.566365,-46.693921,obstrucao_calcada,2026-05-17,Pinheiros
+657,-23.541554,-46.630891,obstrucao_calcada,2026-08-06,Sé
+658,-23.542304,-46.632659,buraco,2026-06-01,Sé
+659,-23.556415,-46.636781,obstrucao_calcada,2026-06-09,Liberdade
+660,-23.543086,-46.629614,obstrucao_calcada,2026-01-24,Sé
+661,-23.56695,-46.692992,escada_sem_rampa,2026-08-30,Pinheiros
+662,-23.542072,-46.632572,buraco,2026-03-25,Sé
+663,-23.555268,-46.636548,calcada_irregular,2026-07-20,Liberdade
+664,-23.550101,-46.63141,buraco,2026-05-28,Sé
+665,-23.590104,-46.651929,calcada_irregular,2026-09-10,Vila Mariana
+666,-23.557711,-46.644578,escada_sem_rampa,2026-08-23,Bela Vista
+667,-23.570121,-46.692845,calcada_irregular,2026-10-19,Pinheiros
+668,-23.543526,-46.631976,buraco,2026-08-17,Sé
+669,-23.542254,-46.631742,buraco,2026-06-10,Sé
+670,-23.588196,-46.634618,calcada_irregular,2026-08-11,Vila Mariana
+671,-23.566851,-46.696555,buraco,2026-04-01,Pinheiros
+672,-23.559118,-46.644744,obstrucao_calcada,2026-05-02,Bela Vista
+673,-23.544479,-46.630582,obstrucao_calcada,2026-01-25,Sé
+674,-23.553177,-46.633236,calcada_irregular,2026-04-26,Sé
+675,-23.54841,-46.634304,obstrucao_calcada,2026-08-14,Sé
+676,-23.55668,-46.645176,obstrucao_calcada,2026-10-21,Bela Vista
+677,-23.549975,-46.692943,calcada_irregular,2026-06-01,Pinheiros
+678,-23.559577,-46.645868,escada_sem_rampa,2026-02-09,Bela Vista
+679,-23.542976,-46.629803,obstrucao_calcada,2026-07-26,Sé
+680,-23.589931,-46.632899,calcada_irregular,2026-05-09,Vila Mariana
+681,-23.550858,-46.646693,calcada_irregular,2026-02-23,República
+682,-23.559291,-46.645612,obstrucao_calcada,2026-05-14,Bela Vista
+683,-23.568718,-46.692053,buraco,2026-01-19,Pinheiros
+684,-23.542901,-46.65937,calcada_irregular,2026-06-15,Consolação
+685,-23.589742,-46.632097,buraco,2026-03-24,Vila Mariana
+686,-23.555964,-46.635486,obstrucao_calcada,2026-05-25,Liberdade
+687,-23.541418,-46.630224,obstrucao_calcada,2026-09-05,Sé
+688,-23.542748,-46.631197,calcada_irregular,2026-01-07,Sé
+689,-23.560566,-46.645783,escada_sem_rampa,2026-07-23,Bela Vista
+690,-23.589549,-46.63631,buraco,2026-07-10,Vila Mariana
+691,-23.541384,-46.630438,obstrucao_calcada,2026-07-08,Sé
+692,-23.567753,-46.694252,obstrucao_calcada,2026-04-26,Pinheiros
+693,-23.554538,-46.638065,buraco,2026-02-11,Sé
+694,-23.566322,-46.69309,obstrucao_calcada,2026-04-26,Pinheiros
+695,-23.553931,-46.635286,calcada_irregular,2026-04-19,Sé
+696,-23.555554,-46.636455,escada_sem_rampa,2026-04-09,Liberdade
+697,-23.543222,-46.631935,obstrucao_calcada,2026-03-22,Sé
+698,-23.565761,-46.696372,buraco,2026-02-16,Pinheiros
+699,-23.550907,-46.635699,buraco,2026-04-04,Sé
+700,-23.551589,-46.635481,obstrucao_calcada,2026-09-13,Sé
+701,-23.567061,-46.693406,buraco,2026-09-11,Pinheiros
+702,-23.542058,-46.6314,calcada_irregular,2026-10-31,Sé
+703,-23.551366,-46.632802,calcada_irregular,2026-10-02,Sé
+704,-23.543967,-46.630922,obstrucao_calcada,2026-08-16,Sé
+705,-23.543385,-46.631324,obstrucao_calcada,2026-06-30,Sé
+706,-23.545109,-46.63136,calcada_irregular,2026-09-25,Sé
+707,-23.561476,-46.665088,escada_sem_rampa,2026-09-25,Consolação
+708,-23.588178,-46.633401,buraco,2026-08-22,Vila Mariana
+709,-23.592276,-46.633766,calcada_irregular,2026-03-28,Vila Mariana
+710,-23.550566,-46.634856,obstrucao_calcada,2026-08-21,Sé
+711,-23.592178,-46.634764,calcada_irregular,2026-05-14,Vila Mariana
+712,-23.557064,-46.646004,escada_sem_rampa,2026-03-10,Bela Vista
+713,-23.557066,-46.636079,obstrucao_calcada,2026-09-25,Liberdade
+714,-23.557346,-46.638487,calcada_irregular,2026-10-10,Liberdade
+715,-23.588826,-46.662835,obstrucao_calcada,2026-04-15,Vila Mariana
+716,-23.548867,-46.634489,calcada_irregular,2026-04-14,Sé
+717,-23.549655,-46.633684,calcada_irregular,2026-07-09,Sé
+718,-23.555713,-46.633084,obstrucao_calcada,2026-06-05,Liberdade
+719,-23.54987,-46.63498,calcada_irregular,2026-04-11,Sé
+720,-23.54283,-46.63104,obstrucao_calcada,2026-01-03,Sé
+721,-23.542097,-46.62924,obstrucao_calcada,2026-01-12,Sé
+722,-23.581085,-46.641431,obstrucao_calcada,2026-10-17,Vila Mariana
+723,-23.540956,-46.686967,buraco,2026-09-09,Pinheiros
+724,-23.565654,-46.693113,buraco,2026-03-19,Pinheiros
+725,-23.565529,-46.694479,obstrucao_calcada,2026-02-20,Pinheiros
+726,-23.542687,-46.629934,calcada_irregular,2026-06-13,Sé
+727,-23.548676,-46.634151,buraco,2026-10-23,Sé
+728,-23.562468,-46.685373,calcada_irregular,2026-08-29,Pinheiros
+729,-23.545305,-46.62949,obstrucao_calcada,2026-01-24,Sé
+730,-23.559647,-46.64307,calcada_irregular,2026-02-14,Bela Vista
+731,-23.567863,-46.694956,buraco,2026-09-17,Pinheiros
+732,-23.550756,-46.635314,obstrucao_calcada,2026-05-28,Sé
+733,-23.553334,-46.633876,calcada_irregular,2026-09-12,Sé
+734,-23.548586,-46.63382,calcada_irregular,2026-02-19,Sé
+735,-23.543054,-46.631882,calcada_irregular,2026-02-03,Sé
+736,-23.567347,-46.692684,calcada_irregular,2026-06-15,Pinheiros
+737,-23.585387,-46.677365,calcada_irregular,2026-09-14,Pinheiros
+738,-23.538035,-46.665979,buraco,2026-05-08,Consolação
+739,-23.548552,-46.629672,calcada_irregular,2026-02-13,Sé
+740,-23.552743,-46.635315,calcada_irregular,2026-04-10,Sé
+741,-23.558126,-46.643834,buraco,2026-02-18,Bela Vista
+742,-23.556991,-46.685344,obstrucao_calcada,2026-10-28,Pinheiros
+743,-23.556287,-46.635704,obstrucao_calcada,2026-02-01,Liberdade
+744,-23.543891,-46.630437,obstrucao_calcada,2026-04-23,Sé
+745,-23.542813,-46.630814,obstrucao_calcada,2026-05-12,Sé
+746,-23.553227,-46.632287,calcada_irregular,2026-10-19,Sé
+747,-23.561246,-46.66799,calcada_irregular,2026-08-12,Consolação
+748,-23.581884,-46.642887,calcada_irregular,2026-05-17,Vila Mariana
+749,-23.587407,-46.634198,buraco,2026-05-13,Vila Mariana
+750,-23.558127,-46.646575,escada_sem_rampa,2026-07-02,Bela Vista
+751,-23.543058,-46.632389,calcada_irregular,2026-01-28,Sé
+752,-23.568506,-46.691339,buraco,2026-03-15,
+753,-23.567001,-46.695509,obstrucao_calcada,2026-06-28,Pinheiros
+754,-23.552343,-46.63432,buraco,2026-01-06,Sé
+755,-23.567691,-46.695327,buraco,2026-09-26,Pinheiros
+756,-23.565856,-46.693215,buraco,2026-10-12,Pinheiros
+757,-23.554901,-46.635487,escada_sem_rampa,2026-03-30,Sé
+758,-23.558681,-46.644166,obstrucao_calcada,2026-04-01,Bela Vista
+759,-23.590699,-46.633752,obstrucao_calcada,2026-04-29,Vila Mariana
+760,-23.555449,-46.634497,escada_sem_rampa,2026-04-24,Liberdade
+761,-23.544037,-46.628334,escada_sem_rampa,2026-01-23,Sé
+762,-23.544285,-46.630181,obstrucao_calcada,2026-06-20,Sé
+763,-23.548597,-46.634151,buraco,2026-03-16,Sé
+764,-23.551448,-46.63493,buraco,2026-08-18,Sé
+765,-23.586497,-46.654339,calcada_irregular,2026-07-15,Vila Mariana
+766,-23.580826,-46.67339,calcada_irregular,2026-09-10,Pinheiros
+767,-23.541137,-46.630391,escada_sem_rampa,2026-10-02,Sé
+768,-23.543572,-46.632933,buraco,2026-04-13,Sé
+769,-23.569499,-46.673622,obstrucao_calcada,2026-10-09,Pinheiros
+770,-23.589185,-46.638044,buraco,2026-03-28,Vila Mariana
+771,-23.567948,-46.69171,calcada_irregular,2026-03-14,Pinheiros
+772,-23.541588,-46.632248,calcada_irregular,2026-02-22,Sé
+773,-23.55158,-46.633325,calcada_irregular,2026-02-16,Sé
+774,-23.588638,-46.634165,buraco,2026-09-27,Vila Mariana
+775,-23.588197,-46.635725,calcada_irregular,2026-01-24,Vila Mariana
+776,-23.588418,-46.635789,calcada_irregular,2026-06-06,Vila Mariana
+777,-23.589299,-46.632371,calcada_irregular,2026-03-27,Vila Mariana
+778,-23.542397,-46.631989,obstrucao_calcada,2026-02-06,Sé
+779,-23.558536,-46.636754,buraco,2026-01-16,Liberdade
+780,-23.556211,-46.644461,obstrucao_calcada,2026-04-17,Bela Vista
+781,-23.55297,-46.636277,buraco,2026-03-27,Sé
+782,-23.542764,-46.630045,buraco,2026-07-20,Sé
+783,-23.558749,-46.643931,obstrucao_calcada,2026-08-24,Bela Vista
+784,-23.541938,-46.629882,obstrucao_calcada,2026-07-08,Sé
+785,-23.589336,-46.639844,buraco,2026-05-15,Vila Mariana
+786,-23.542518,-46.630268,escada_sem_rampa,2026-05-05,Sé
+787,-23.542601,-46.631794,obstrucao_calcada,2026-09-16,Sé
+788,-23.558712,-46.646277,escada_sem_rampa,2026-02-23,Bela Vista
+789,-23.542266,-46.629095,obstrucao_calcada,2026-06-14,Sé
+790,-23.543194,-46.631488,buraco,2026-06-21,Sé
+791,-23.558524,-46.642828,escada_sem_rampa,2026-10-05,Bela Vista
+792,-23.559022,-46.644643,escada_sem_rampa,2026-08-18,
+793,-23.590536,-46.634829,calcada_irregular,2026-09-15,Vila Mariana
+794,-23.557278,-46.646471,calcada_irregular,2026-07-24,Bela Vista
+795,-23.561253,-46.646543,buraco,2026-10-06,Bela Vista
+796,-23.549949,-46.634229,obstrucao_calcada,2026-05-28,Sé
+797,-23.588347,-46.633817,calcada_irregular,2026-08-20,Vila Mariana
+798,-23.555693,-46.636059,escada_sem_rampa,2026-01-05,
+799,-23.542753,-46.630311,calcada_irregular,2026-05-06,Sé
+800,-23.542425,-46.629987,obstrucao_calcada,2026-06-10,Sé
+801,-23.551411,-46.692848,buraco,2026-01-23,Pinheiros
+802,-23.572585,-46.635194,calcada_irregular,2026-10-04,Liberdade
+803,-23.558614,-46.645985,escada_sem_rampa,2026-02-13,Bela Vista
+804,-23.594716,-46.630382,buraco,2026-05-03,Vila Mariana
+805,-23.549907,-46.633532,calcada_irregular,2026-02-24,Sé
+806,-23.543311,-46.630531,escada_sem_rampa,2026-01-01,Sé
+807,-23.543908,-46.630085,calcada_irregular,2026-06-06,Sé
+808,-23.566739,-46.694727,buraco,2026-09-16,Pinheiros
+809,-23.55478,-46.634607,buraco,2026-01-27,Sé
+810,-23.544466,-46.699025,buraco,2026-02-24,Pinheiros
+811,-23.550263,-46.635405,obstrucao_calcada,2026-07-01,Sé
+812,-23.559155,-46.644902,escada_sem_rampa,2026-05-18,Bela Vista
+813,-23.58944,-46.678956,escada_sem_rampa,2026-03-06,Pinheiros
+814,-23.568711,-46.693448,buraco,2026-10-03,Pinheiros
+815,-23.543554,-46.630226,obstrucao_calcada,2026-01-16,Sé
+816,-23.592593,-46.633999,calcada_irregular,2026-10-12,Vila Mariana
+817,-23.588858,-46.63778,calcada_irregular,2026-07-04,Vila Mariana
+818,-23.544197,-46.631547,obstrucao_calcada,2026-03-02,Sé
+819,-23.589328,-46.686216,escada_sem_rampa,2026-06-05,Pinheiros
+820,-23.560207,-46.694732,obstrucao_calcada,2026-06-17,Pinheiros
+821,-23.559565,-46.645025,obstrucao_calcada,2026-06-12,Bela Vista
+822,-23.587147,-46.636025,escada_sem_rampa,2026-05-11,Vila Mariana
+823,-23.558038,-46.675205,calcada_irregular,2026-09-26,Consolação
+824,-23.576734,-46.696778,obstrucao_calcada,2026-08-03,Pinheiros
+825,-23.556299,-46.636579,buraco,2026-10-09,Liberdade
+826,-23.557854,-46.644825,buraco,2026-06-23,Bela Vista
+827,-23.544043,-46.633225,obstrucao_calcada,2026-05-27,Sé
+828,-23.565968,-46.692214,buraco,2026-06-21,Pinheiros
+829,-23.552497,-46.626006,obstrucao_calcada,2026-09-20,Sé
+830,-23.540699,-46.631056,obstrucao_calcada,2026-08-30,Sé
+831,-23.555363,-46.637157,calcada_irregular,2026-05-07,Liberdade
+832,-23.567983,-46.694255,buraco,2026-03-06,Pinheiros
+833,-23.588334,-46.634539,calcada_irregular,2026-04-10,Vila Mariana
+834,-23.54481,-46.63239,obstrucao_calcada,2026-08-11,Sé
+835,-23.587035,-46.634332,calcada_irregular,2026-04-29,Vila Mariana
+836,-23.591874,-46.636475,calcada_irregular,2026-06-15,Vila Mariana
+837,-23.586163,-46.636528,buraco,2026-01-05,Vila Mariana
+838,-23.542743,-46.630141,obstrucao_calcada,2026-04-21,Sé
+839,-23.540278,-46.629231,obstrucao_calcada,2026-10-22,Sé
+840,-23.591776,-46.6349,calcada_irregular,2026-09-01,Vila Mariana
+841,-23.542203,-46.631696,buraco,2026-07-01,Sé
+842,-23.560045,-46.644445,escada_sem_rampa,2026-10-17,Bela Vista
+843,-23.549948,-46.634211,obstrucao_calcada,2026-09-26,Sé
+844,-23.589671,-46.636629,buraco,2026-02-13,Vila Mariana
+845,-23.567047,-46.691124,buraco,2026-01-01,Pinheiros
+846,-23.562635,-46.674688,buraco,2026-06-26,Pinheiros
+847,-23.565572,-46.693648,buraco,2026-08-08,Pinheiros
+848,-23.543259,-46.628759,obstrucao_calcada,2026-08-18,Sé
+849,-23.543346,-46.629964,calcada_irregular,2026-04-02,Sé
+850,-23.54412,-46.628956,obstrucao_calcada,2026-03-29,Sé
+851,-23.549949,-46.635049,calcada_irregular,2026-03-30,Sé
+852,-23.555203,-46.629724,calcada_irregular,2026-03-17,Sé
+853,-23.544318,-46.631762,escada_sem_rampa,2026-01-01,Sé
+854,-23.588687,-46.649149,obstrucao_calcada,2026-03-24,Vila Mariana
+855,-23.567627,-46.694593,buraco,2026-05-05,Pinheiros
+856,-23.548287,-46.625299,buraco,2026-05-20,Sé
+857,-23.583165,-46.680673,buraco,2026-03-10,Pinheiros
+858,-23.543018,-46.631753,calcada_irregular,2026-03-15,Sé
+859,-23.582319,-46.685998,obstrucao_calcada,2026-06-05,Pinheiros
+860,-23.543123,-46.630317,calcada_irregular,2026-05-06,
+861,-23.557317,-46.645719,escada_sem_rampa,2026-10-06,Bela Vista
+862,-23.567501,-46.694757,obstrucao_calcada,2026-08-18,Pinheiros
+863,-23.548977,-46.634429,obstrucao_calcada,2026-10-07,Sé
+864,-23.548048,-46.633602,buraco,2026-04-03,Sé
+865,-23.591278,-46.634712,calcada_irregular,2026-03-21,Vila Mariana
+866,-23.559897,-46.645158,obstrucao_calcada,2026-04-16,Bela Vista
+867,-23.568406,-46.69403,buraco,2026-05-11,Pinheiros
+868,-23.58706,-46.635289,calcada_irregular,2026-05-06,Vila Mariana
+869,-23.590396,-46.631576,calcada_irregular,2026-08-30,Vila Mariana
+870,-23.539722,-46.648333,obstrucao_calcada,2026-05-11,República
+871,-23.550315,-46.631815,escada_sem_rampa,2026-09-04,Sé
+872,-23.566037,-46.69544,buraco,2026-08-28,Pinheiros
+873,-23.550769,-46.632706,buraco,2026-03-11,Sé
+874,-23.549252,-46.631975,calcada_irregular,2026-05-25,Sé
+875,-23.543171,-46.630373,obstrucao_calcada,2026-04-28,Sé
+876,-23.593035,-46.676279,buraco,2026-01-07,Pinheiros
+877,-23.556972,-46.634588,calcada_irregular,2026-07-07,Liberdade
+878,-23.565142,-46.69082,obstrucao_calcada,2026-09-05,Pinheiros
+879,-23.553931,-46.635286,calcada_irregular,2026-04-19,Sé
+880,-23.581043,-46.65469,calcada_irregular,2026-03-08,Vila Mariana
+881,-23.558211,-46.646006,escada_sem_rampa,2026-03-16,Bela Vista
+882,-23.594573,-46.658989,obstrucao_calcada,2026-04-19,Vila Mariana
+883,-23.558701,-46.642734,escada_sem_rampa,2026-06-07,Bela Vista
+884,-23.557856,-46.635796,escada_sem_rampa,2026-08-25,Liberdade
+885,-23.56806,-46.691624,obstrucao_calcada,2026-09-02,Pinheiros
+886,-23.594327,-46.685719,escada_sem_rampa,2026-09-23,Pinheiros
+887,-23.543152,-46.632863,obstrucao_calcada,2026-08-29,Sé
+888,-23.543662,-46.630742,escada_sem_rampa,2026-05-24,Sé
+889,-23.586832,-46.637812,calcada_irregular,2026-03-28,Vila Mariana
+890,-23.549044,-46.635932,obstrucao_calcada,2026-08-05,Sé
+891,-23.586584,-46.636577,buraco,2026-06-03,Vila Mariana
+892,-23.539183,-46.648201,buraco,2026-07-20,República
+893,-23.566859,-46.69314,calcada_irregular,2026-09-01,Pinheiros
+894,-23.554529,-46.637178,obstrucao_calcada,2026-07-21,Sé
+895,-23.550251,-46.634664,calcada_irregular,2026-01-24,Sé
+896,-23.558935,-46.644449,calcada_irregular,2026-10-21,Bela Vista
+897,-23.551679,-46.634352,calcada_irregular,2026-09-20,Sé
+898,-23.542802,-46.629215,obstrucao_calcada,2026-04-14,Sé
+899,-23.541531,-46.62954,obstrucao_calcada,2026-09-07,Sé
+900,-23.54248,-46.629333,buraco,2026-10-02,Sé
+901,-23.567866,-46.693717,buraco,2026-07-09,Pinheiros
+902,-23.542711,-46.629507,obstrucao_calcada,2026-08-29,Sé
+903,-23.55649,-46.63402,obstrucao_calcada,2026-03-17,Liberdade
+904,-23.552278,-46.647405,calcada_irregular,2026-02-26,Bela Vista
+905,-23.543427,-46.628471,obstrucao_calcada,2026-07-25,Sé
+906,-23.565317,-46.692466,escada_sem_rampa,2026-01-29,Pinheiros
+907,-23.586544,-46.634836,calcada_irregular,2026-07-09,Vila Mariana
+908,-23.553631,-46.635698,obstrucao_calcada,2026-05-18,Sé
+909,-23.549735,-46.634437,calcada_irregular,2026-02-16,Sé
+910,-23.550175,-46.633574,obstrucao_calcada,2026-08-03,Sé
+911,-23.578842,-46.645897,calcada_irregular,2026-03-13,Vila Mariana
+912,-23.550918,-46.63266,buraco,2026-08-15,Sé
+913,-23.542762,-46.631173,obstrucao_calcada,2026-10-13,Sé
+914,-23.541804,-46.629616,calcada_irregular,2026-06-21,Sé
+915,-23.542902,-46.630655,calcada_irregular,2026-07-07,Sé
+916,-23.559329,-46.644109,calcada_irregular,2026-03-17,Bela Vista
+917,-23.556767,-46.635978,escada_sem_rampa,2026-02-17,Liberdade
+918,-23.551515,-46.634594,calcada_irregular,2026-07-03,Sé
+919,-23.551993,-46.633794,calcada_irregular,2026-10-31,Sé
+920,-23.55802,-46.638818,calcada_irregular,2026-02-19,Liberdade
+921,-23.567968,-46.678376,calcada_irregular,2026-06-11,Pinheiros
+922,-23.551562,-46.661957,obstrucao_calcada,2026-06-20,Consolação
+923,-23.539453,-46.633789,calcada_irregular,2026-03-20,República
+924,-23.544575,-46.629406,obstrucao_calcada,2026-05-24,Sé
+925,-23.544002,-46.630674,obstrucao_calcada,2026-01-01,Sé
+926,-23.570731,-46.694942,buraco,2026-04-11,Pinheiros
+927,-23.550261,-46.63386,calcada_irregular,2026-04-29,Sé
+928,-23.568994,-46.691457,obstrucao_calcada,2026-01-01,Pinheiros
+929,-23.571055,-46.669272,buraco,2026-07-23,Pinheiros
+930,-23.555023,-46.632719,escada_sem_rampa,2026-04-15,Sé
+931,-23.589928,-46.634579,buraco,2026-04-05,Vila Mariana
+932,-23.55459,-46.663137,calcada_irregular,2026-08-16,Consolação
+933,-23.543752,-46.630048,obstrucao_calcada,2026-08-19,Sé
+934,-23.565301,-46.693556,obstrucao_calcada,2026-05-14,Pinheiros
+935,-23.544124,-46.631197,escada_sem_rampa,2026-05-14,Sé
+936,-23.590162,-46.634374,calcada_irregular,2026-07-24,Vila Mariana
+937,-23.594362,-46.675139,escada_sem_rampa,2026-05-09,Pinheiros
+938,-23.542506,-46.629111,obstrucao_calcada,2026-07-30,Sé
+939,-23.562697,-46.69595,obstrucao_calcada,2026-08-15,Pinheiros
+940,-23.557904,-46.641732,buraco,2026-06-03,Liberdade
+941,-23.541342,-46.653905,obstrucao_calcada,2026-01-03,República
+942,-23.5485,-46.63395,buraco,2026-07-10,Sé
+943,-23.583165,-46.680673,buraco,2026-03-10,Pinheiros
+944,-23.556238,-46.635919,escada_sem_rampa,2026-07-28,Liberdade
+945,-23.557848,-46.646243,escada_sem_rampa,2026-09-06,Bela Vista
+946,-23.550743,-46.633904,escada_sem_rampa,2026-09-21,Sé
+947,-23.591218,-46.65511,buraco,2026-05-25,Vila Mariana
+948,-23.557912,-46.644194,escada_sem_rampa,2026-03-02,Bela Vista
+949,-23.558273,-46.644159,calcada_irregular,2026-06-22,Bela Vista
+950,-23.555087,-46.63762,escada_sem_rampa,2026-04-05,Liberdade
+951,-23.543642,-46.630415,escada_sem_rampa,2026-01-31,Sé
+952,-23.566664,-46.693169,obstrucao_calcada,2026-06-26,Pinheiros
+953,-23.550958,-46.633913,obstrucao_calcada,2026-10-22,Sé
+954,-23.559457,-46.644614,buraco,2026-09-11,Bela Vista
+955,-23.568005,-46.692493,buraco,2026-07-02,Pinheiros
+956,-23.565983,-46.693102,buraco,2026-05-12,Pinheiros
+957,-23.552648,-46.635438,buraco,2026-04-08,Sé
+958,-23.555712,-46.634777,buraco,2026-03-25,Liberdade
+959,-23.566939,-46.693978,calcada_irregular,2026-05-25,
+960,-23.566174,-46.687023,calcada_irregular,2026-09-05,Pinheiros
+961,-23.550849,-46.636603,buraco,2026-08-07,Sé
+962,-23.554954,-46.635594,calcada_irregular,2026-05-30,Sé
+963,-23.586166,-46.650551,calcada_irregular,2026-02-17,Vila Mariana
+964,-23.565822,-46.694012,buraco,2026-09-17,Pinheiros
+965,-23.551914,-46.634003,buraco,2026-05-26,Sé
+966,-23.567461,-46.697143,obstrucao_calcada,2026-10-19,Pinheiros
+967,-23.552119,-46.634281,buraco,2026-05-23,Sé
+968,-23.561371,-46.626156,calcada_irregular,2026-04-16,Liberdade
+969,-23.566272,-46.695847,buraco,2026-09-18,Pinheiros
+970,-23.550026,-46.632867,buraco,2026-01-05,Sé
+971,-23.549483,-46.636113,calcada_irregular,2026-09-16,Sé
+972,-23.555483,-46.636033,calcada_irregular,2026-02-15,Liberdade
+973,-23.568984,-46.69671,buraco,2026-03-16,Pinheiros
+974,-23.566677,-46.6952,buraco,2026-06-13,Pinheiros
+975,-23.556574,-46.634388,calcada_irregular,2026-06-09,Liberdade
+976,-23.550537,-46.634786,calcada_irregular,2026-10-22,Sé
+977,-23.550448,-46.634377,calcada_irregular,2026-02-12,Sé
+978,-23.551428,-46.634501,buraco,2026-01-14,Sé
+979,-23.542902,-46.630418,obstrucao_calcada,2026-10-01,Sé
+980,-23.542316,-46.691788,calcada_irregular,2026-04-20,Pinheiros
+981,-23.540411,-46.652567,buraco,2026-06-09,República
+982,-23.558447,-46.643959,calcada_irregular,2026-05-03,Bela Vista
+983,-23.549006,-46.634416,calcada_irregular,2026-06-03,Sé
+984,-23.558232,-46.646159,escada_sem_rampa,2026-03-26,Bela Vista
+985,-23.565947,-46.695756,buraco,2026-07-23,Pinheiros
+986,-23.543692,-46.631518,buraco,2026-07-14,Sé
+987,-23.584494,-46.668747,obstrucao_calcada,2026-06-01,Pinheiros
+988,-23.556394,-46.634193,escada_sem_rampa,2026-10-19,Liberdade
+989,-23.551241,-46.633362,buraco,2026-10-09,Sé
+990,-23.558663,-46.645113,obstrucao_calcada,2026-05-08,Bela Vista
+991,-23.568611,-46.691511,calcada_irregular,2026-01-15,Pinheiros
+992,-23.542605,-46.630944,calcada_irregular,2026-09-11,
+993,-23.57667,-46.642937,obstrucao_calcada,2026-09-16,Vila Mariana
+994,-23.56954,-46.69563,buraco,2026-09-21,Pinheiros
+995,-23.587769,-46.653699,escada_sem_rampa,2026-03-09,Vila Mariana
+996,-23.558821,-46.644849,calcada_irregular,2026-08-29,Bela Vista
+997,-23.560236,-46.643526,escada_sem_rampa,2026-04-14,Bela Vista
+998,-23.565682,-46.696663,calcada_irregular,2026-08-04,Pinheiros
+999,-23.557812,-46.645686,buraco,2026-04-08,Bela Vista
+1000,-23.555539,-46.635338,obstrucao_calcada,2026-10-10,Liberdade
+1001,-23.542474,-46.63085,obstrucao_calcada,2026-06-21,Sé
+1002,-23.55314,-46.635613,obstrucao_calcada,2026-05-22,Sé
+1003,-23.569293,-46.691887,obstrucao_calcada,2026-05-25,Pinheiros
+1004,-23.557466,-46.634864,escada_sem_rampa,2026-08-28,Liberdade
+1005,-23.544281,-46.632166,obstrucao_calcada,2026-04-02,Sé
+1006,-23.55978,-46.644032,obstrucao_calcada,2026-08-20,Bela Vista
+1007,-23.541779,-46.629306,calcada_irregular,2026-09-05,Sé
+1008,-23.557266,-46.647308,buraco,2026-07-25,Bela Vista
+1009,-23.543708,-46.630712,buraco,2026-05-23,Sé
+1010,-23.567678,-46.690157,obstrucao_calcada,2026-09-30,Pinheiros
+1011,-23.554956,-46.635217,calcada_irregular,2026-05-03,Sé
+1012,-23.581246,-46.673461,calcada_irregular,2026-09-05,Pinheiros
+1013,-23.55453,-46.637974,obstrucao_calcada,2026-06-10,Sé
+1014,-23.559169,-46.645015,escada_sem_rampa,2026-03-03,Bela Vista
+1015,-23.555168,-46.634241,obstrucao_calcada,2026-05-22,Sé
+1016,-23.589125,-46.634947,calcada_irregular,2026-01-13,Vila Mariana
+1017,-23.544564,-46.629638,obstrucao_calcada,2026-06-20,Sé
+1018,-23.557036,-46.645783,calcada_irregular,2026-06-25,Bela Vista
+1019,-23.55061,-46.632696,buraco,2026-07-05,Sé
+1020,-23.556493,-46.63597,buraco,2026-03-13,Liberdade
+1021,-23.587948,-46.63326,obstrucao_calcada,2026-09-13,Vila Mariana
+1022,-23.558702,-46.645883,calcada_irregular,2026-08-27,Bela Vista
+1023,-23.566865,-46.693984,obstrucao_calcada,2026-07-20,Pinheiros
+1024,-23.556515,-46.645331,obstrucao_calcada,2026-09-13,Bela Vista
+1025,-23.588655,-46.635246,escada_sem_rampa,2026-05-23,Vila Mariana
+1026,-23.543912,-46.63113,calcada_irregular,2026-10-29,Sé
+1027,-23.550418,-46.633332,calcada_irregular,2026-05-02,Sé
+1028,-23.556535,-46.637864,obstrucao_calcada,2026-07-29,Liberdade
+1029,-23.589834,-46.634792,calcada_irregular,2026-06-19,Vila Mariana
+1030,-23.551192,-46.632891,obstrucao_calcada,2026-04-29,Sé
+1031,-23.555066,-46.633911,calcada_irregular,2026-04-23,Sé
+1032,-23.554181,-46.652038,calcada_irregular,2026-06-16,Consolação
+1033,-23.564052,-46.692626,buraco,2026-08-19,Pinheiros
+1034,-23.569438,-46.695441,obstrucao_calcada,2026-09-26,Pinheiros
+1035,-23.563527,-46.693254,obstrucao_calcada,2026-03-14,Pinheiros
+1036,-23.583371,-46.671956,buraco,2026-02-20,Pinheiros
+1037,-23.565665,-46.693475,buraco,2026-01-26,
+1038,-23.568342,-46.690868,buraco,2026-08-19,Pinheiros
+1039,-23.542568,-46.631882,obstrucao_calcada,2026-05-15,Sé
+1040,-23.556115,-46.6339,calcada_irregular,2026-01-05,Liberdade
+1041,-23.549764,-46.633253,calcada_irregular,2026-01-19,Sé
+1042,-23.560361,-46.645666,escada_sem_rampa,2026-06-03,Bela Vista
+1043,-23.586982,-46.634106,calcada_irregular,2026-04-22,Vila Mariana
+1044,-23.555408,-46.633901,buraco,2026-01-24,Liberdade
+1045,-23.542635,-46.631727,calcada_irregular,2026-08-29,Sé
+1046,-23.54459,-46.630647,obstrucao_calcada,2026-07-12,Sé
+1047,-23.542196,-46.631351,obstrucao_calcada,2026-09-24,Sé
+1048,-23.565481,-46.675072,buraco,2026-04-05,Pinheiros
+1049,-23.549512,-46.635387,calcada_irregular,2026-07-05,Sé
+1050,-23.553671,-46.633147,calcada_irregular,2026-05-09,Sé
+1051,-23.553134,-46.633896,calcada_irregular,2026-01-08,Sé
+1052,-23.550359,-46.633388,obstrucao_calcada,2026-08-14,Sé
+1053,-23.548088,-46.634688,obstrucao_calcada,2026-08-08,Sé
+1054,-23.56729,-46.693166,buraco,2026-01-28,Pinheiros
+1055,-23.566581,-46.695552,obstrucao_calcada,2026-08-19,Pinheiros
+1056,-23.557592,-46.64284,escada_sem_rampa,2026-03-24,Bela Vista
+1057,-23.542231,-46.630779,obstrucao_calcada,2026-03-28,Sé
+1058,-23.542495,-46.627989,calcada_irregular,2026-09-20,Sé
+1059,-23.559254,-46.644514,escada_sem_rampa,2026-05-24,Bela Vista
+1060,-23.549801,-46.633532,calcada_irregular,2026-03-20,Sé
+1061,-23.544324,-46.628934,obstrucao_calcada,2026-08-03,Sé
+1062,-23.554429,-46.638077,escada_sem_rampa,2026-07-11,Sé
+1063,-23.542418,-46.629241,obstrucao_calcada,2026-03-12,Sé
+1064,-23.556775,-46.63554,obstrucao_calcada,2026-03-10,Liberdade
+1065,-23.592569,-46.636044,calcada_irregular,2026-02-09,Vila Mariana
+1066,-23.551665,-46.63595,escada_sem_rampa,2026-06-01,Sé
+1067,-23.566556,-46.690843,obstrucao_calcada,2026-09-24,Pinheiros
+1068,-23.548033,-46.635584,escada_sem_rampa,2026-08-30,Sé
+1069,-23.542937,-46.687837,calcada_irregular,2026-08-14,Pinheiros
+1070,-23.557711,-46.643445,calcada_irregular,2026-07-31,Bela Vista
+1071,-23.555171,-46.634955,calcada_irregular,2026-07-18,Liberdade
+1072,-23.550421,-46.635034,calcada_irregular,2026-02-03,
+1073,-23.562901,-46.687254,buraco,2026-01-12,Pinheiros
+1074,-23.541478,-46.62994,buraco,2026-03-05,Sé
+1075,-23.543784,-46.630436,obstrucao_calcada,2026-04-05,Sé
+1076,-23.56863,-46.695728,buraco,2026-05-18,Pinheiros
+1077,-23.549154,-46.633039,obstrucao_calcada,2026-08-25,Sé
+1078,-23.568713,-46.693653,buraco,2026-08-30,Pinheiros
+1079,-23.558042,-46.645395,escada_sem_rampa,2026-04-20,Bela Vista
+1080,-23.580867,-46.685524,calcada_irregular,2026-02-10,Pinheiros
+1081,-23.589257,-46.629204,obstrucao_calcada,2026-02-13,Vila Mariana
+1082,-23.543053,-46.631214,obstrucao_calcada,2026-06-28,Sé
+1083,-23.542334,-46.629944,calcada_irregular,2026-09-06,Sé
+1084,-23.555489,-46.632508,escada_sem_rampa,2026-05-30,Sé
+1085,-23.558036,-46.644651,calcada_irregular,2026-02-04,Bela Vista
+1086,-23.550378,-46.679432,obstrucao_calcada,2026-04-08,Pinheiros
+1087,-23.543106,-46.630725,calcada_irregular,2026-03-17,Sé
+1088,-23.586478,-46.635367,calcada_irregular,2026-07-28,Vila Mariana
+1089,-23.559038,-46.645629,escada_sem_rampa,2026-09-26,Bela Vista
+1090,-23.555597,-46.634598,escada_sem_rampa,2026-06-01,Liberdade
+1091,-23.549099,-46.635529,calcada_irregular,2026-07-27,Sé
+1092,-23.541781,-46.63223,obstrucao_calcada,2026-08-14,Sé
+1093,-23.550195,-46.634666,buraco,2026-05-24,Sé
+1094,-23.568186,-46.694472,obstrucao_calcada,2026-07-04,Pinheiros
+1095,-23.547983,-46.634006,calcada_irregular,2026-08-29,Sé
+1096,-23.541993,-46.629604,obstrucao_calcada,2026-06-02,Sé
+1097,-23.555487,-46.63444,obstrucao_calcada,2026-07-07,Liberdade
+1098,-23.5432,-46.630934,obstrucao_calcada,2026-01-24,Sé
+1099,-23.567012,-46.693342,obstrucao_calcada,2026-02-25,Pinheiros
+1100,-23.554874,-46.637295,escada_sem_rampa,2026-02-24,Liberdade
+1101,-23.559166,-46.646694,escada_sem_rampa,2026-02-02,Bela Vista
+1102,-23.573356,-46.695307,calcada_irregular,2026-01-29,Pinheiros
+1103,-23.566912,-46.694436,obstrucao_calcada,2026-03-06,Pinheiros
+1104,-23.538758,-46.666857,calcada_irregular,2026-06-21,Consolação
+1105,-23.541215,-46.628904,calcada_irregular,2026-09-12,Sé
+1106,-23.564597,-46.679953,calcada_irregular,2026-05-06,Pinheiros
+1107,-23.569007,-46.693353,buraco,2026-08-09,Pinheiros
+1108,-23.555814,-46.64423,obstrucao_calcada,2026-07-20,Bela Vista
+1109,-23.581624,-46.645474,calcada_irregular,2026-01-29,Vila Mariana
+1110,-23.557891,-46.645923,escada_sem_rampa,2026-04-14,Bela Vista
+1111,-23.588072,-46.636342,obstrucao_calcada,2026-10-29,Vila Mariana
+1112,-23.553507,-46.634104,escada_sem_rampa,2026-04-10,Sé
+1113,-23.550372,-46.633947,calcada_irregular,2026-05-16,Sé
+1114,-23.543736,-46.630097,obstrucao_calcada,2026-07-30,Sé
+1115,-23.558523,-46.643361,escada_sem_rampa,2026-02-18,Bela Vista
+1116,-23.549332,-46.633272,obstrucao_calcada,2026-07-26,Sé
+1117,-23.559793,-46.679758,escada_sem_rampa,2026-04-09,Pinheiros
+1118,-23.550712,-46.637,buraco,2026-08-21,Sé
+1119,-23.557068,-46.63429,buraco,2026-03-09,Liberdade
+1120,-23.552554,-46.633485,calcada_irregular,2026-06-06,Sé
+1121,-23.554717,-46.636475,obstrucao_calcada,2026-07-26,Sé
+1122,-23.543421,-46.63068,escada_sem_rampa,2026-01-10,Sé
+1123,-23.589534,-46.631437,buraco,2026-01-10,Vila Mariana
+1124,-23.558151,-46.647159,escada_sem_rampa,2026-04-01,Bela Vista
+1125,-23.542986,-46.631323,obstrucao_calcada,2026-06-19,Sé
+1126,-23.550401,-46.634146,calcada_irregular,2026-02-14,Sé
+1127,-23.558245,-46.643414,obstrucao_calcada,2026-03-16,Bela Vista
+1128,-23.542806,-46.629502,obstrucao_calcada,2026-04-10,Sé
+1129,-23.579142,-46.635617,buraco,2026-02-17,Vila Mariana
+1130,-23.580528,-46.630115,escada_sem_rampa,2026-03-22,Vila Mariana
+1131,-23.58721,-46.632245,calcada_irregular,2026-02-14,Vila Mariana
+1132,-23.560213,-46.655167,buraco,2026-03-26,Bela Vista

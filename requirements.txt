@@ -1,0 +1,26 @@
+# Ambiente COMPLETO: notebooks + API.  Testado com Python 3.13 (use Python 3.10 a 3.13).
+# Instalação:  pip install -r requirements.txt
+# (Para rodar SÓ a API, basta: pip install -r api/requirements.txt)
+
+# dados e gráficos
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+
+# machine learning
+# scikit-learn com versão FIXA: os modelos .joblib foram salvos com esta versão
+scikit-learn==1.9.1
+joblib>=1.4
+
+# visão computacional: MobileNetV2 pré-treinada (notebook) e o runtime leve .tflite (API)
+tensorflow==2.21.0
+ai-edge-litert==2.3.0
+pillow>=10.0
+
+# API
+flask>=3.0
+requests>=2.31
+
+# notebooks
+jupyter>=1.0

@@ -1,0 +1,9 @@
+# Dependências SÓ da API (usadas no Render / Docker).
+# A API não precisa do TensorFlow completo: usa o runtime leve ai-edge-litert.
+flask>=3.0
+gunicorn>=22.0        # servidor de produção (Linux/Render). No Windows, rode com: python app.py
+numpy>=1.26
+pillow>=10.0
+joblib>=1.4
+scikit-learn==1.9.1   # versão FIXA: os modelos .joblib foram salvos com esta versão
+ai-edge-litert==2.3.0 # roda a MobileNetV2 em formato .tflite

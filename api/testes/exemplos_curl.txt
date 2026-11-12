@@ -1,0 +1,26 @@
+EXEMPLOS DE TESTE COM CURL
+==========================
+Rode os comandos a partir da pasta api/testes, com a API ligada (python app.py, na pasta api).
+No Windows, use o Prompt de Comando (cmd) ou o PowerShell com "curl.exe" no lugar de "curl".
+
+1) Status da API e dos modelos
+curl http://127.0.0.1:5000/status
+
+2) Autenticar a foto de um buraco (esperado: "autenticado": true)
+curl -X POST http://127.0.0.1:5000/autenticar -F "foto=@fotos_demo/buraco.jpg" -F "latitude=-23.5503" -F "longitude=-46.6340"
+
+3) Autenticar uma selfie (esperado: "autenticado": false)
+curl -X POST http://127.0.0.1:5000/autenticar -F "foto=@fotos_demo/selfie.jpg" -F "latitude=-23.5503" -F "longitude=-46.6340"
+
+4) Consultar se um ponto está em zona crítica (Escadaria do Bixiga)
+curl -X POST http://127.0.0.1:5000/zona-critica -H "Content-Type: application/json" -d "{\"latitude\": -23.5585, \"longitude\": -46.6450}"
+
+5) Consultar um ponto longe das zonas (Parque Ibirapuera)
+curl -X POST http://127.0.0.1:5000/zona-critica -H "Content-Type: application/json" -d "{\"latitude\": -23.5874, \"longitude\": -46.6576}"
+
+6) Listar todas as zonas críticas (para desenhar no mapa)
+curl http://127.0.0.1:5000/zonas
+
+7) Erros de validação (esperado: HTTP 400 ou 415 com mensagem em "erro")
+curl -X POST http://127.0.0.1:5000/autenticar -F "latitude=-23.55" -F "longitude=-46.63"
+curl -X POST http://127.0.0.1:5000/zona-critica -H "Content-Type: application/json" -d "{\"latitude\": 123, \"longitude\": -46.6}"

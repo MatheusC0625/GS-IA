@@ -1,0 +1,103 @@
+GLOBAL SOLUTION 2026/2 - CITIZENTECH
+Disciplina: Artificial Intelligence & Chatbot
+Projeto: Waze da Acessibilidade - rotas a pé com menos obstáculos
+
+======================================================================
+INTEGRANTES
+======================================================================
+Nome completo: <PREENCHER>    RM: <PREENCHER>    Turma: <PREENCHER>
+Nome completo: <PREENCHER>    RM: <PREENCHER>    Turma: <PREENCHER>
+Nome completo: <PREENCHER>    RM: <PREENCHER>    Turma: <PREENCHER>
+Nome completo: <PREENCHER>    RM: <PREENCHER>    Turma: <PREENCHER>
+Nome completo: <PREENCHER>    RM: <PREENCHER>    Turma: <PREENCHER>
+
+======================================================================
+LINKS
+======================================================================
+API de IA (Flask) publicada no Render: <PREENCHER>
+API Java (Spring Boot) no Render:       <PREENCHER>
+
+======================================================================
+SOBRE A SOLUÇÃO
+======================================================================
+Problema: falta de acessibilidade nas calçadas. O app calcula rotas a pé
+para idosos, pessoas com mobilidade reduzida, cadeirantes e pais com
+carrinho de bebê, evitando obstáculos relatados pelos próprios cidadãos.
+
+Modelo 1 - Autenticador de relatos (CLASSIFICAÇÃO)
+  Recebe a foto do relato e decide se ela mostra um obstáculo (buraco,
+  calçada irregular, escada sem rampa ou obstrução da calçada) ou não.
+  Técnica: MobileNetV2 pré-treinada (transfer learning) gera embeddings;
+  classificadores do scikit-learn comparados: Regressão Logística
+  (escolhida), SVM e Random Forest. O relato só é autenticado com
+  confiança >= 0,85 (limiar definido no notebook 01).
+  Resultado no teste: acurácia 95,3%; F1 macro 0,953.
+
+Modelo 2 - Zonas críticas (AGRUPAMENTO)
+  Agrupa os obstáculos por latitude/longitude e classifica cada zona em
+  criticidade Alta, Média ou Baixa (densidade de obstáculos ponderada
+  pela gravidade do tipo). Comparados: K-Means (escolhido, k = 11,
+  silhouette 0,68) e DBSCAN.
+
+API REST (Flask): GET /status, POST /autenticar, POST /zona-critica e
+GET /zonas. Carrega os modelos exportados (.joblib e .tflite), sem
+treinar nada. A API Java (Spring Boot) do grupo chama a API Flask; as
+classes de integração estão em integracao_java/.
+
+======================================================================
+ORIGEM DOS DADOS
+======================================================================
+1) dados/labels.csv + dados/imagens/ (Modelo 1) - IMAGENS REAIS de bases
+   públicas, baixadas do GitHub e do Google Cloud. Cada imagem tem a
+   origem registrada na coluna "origem" do labels.csv. Todas foram
+   reduzidas para no máximo 512 px.
+   - buraco (144): CWB-Pothole-dataset (github.com/pieromorais/
+     CWB-Pothole-dataset), ruas de Curitiba/PR. Recortamos a região de
+     cada buraco usando as marcações (caixas) da própria base.
+   - calcada_irregular (150): CrackForest Dataset (github.com/cuilimeng/
+     CrackForest-dataset), pisos rachados. Shi et al., IEEE T-ITS, 2016.
+   - escada_sem_rampa (150): stairs_dataset (github.com/anu71195/
+     stairs_dataset), pastas stairs/up e stairs/down.
+   - obstrucao_calcada (150): Sidewalk-Obstacle-Dataset (github.com/
+     T3qu1laSuns3t/Sidewalk-Obstacle-Dataset), cenas de calçadas com
+     obstáculos; mantivemos as 150 imagens mais claras (diurnas) de
+     450 sorteadas.
+   - nao_obstaculo (150): 60 fotos de pisos livres (stairs_dataset/
+     no_stairs), 54 fotos variadas (pessoas, objetos, comida, ambientes)
+     e 36 fotos de flores, ambas do bucket público
+     gs://cloud-samples-data do Google Cloud.
+   As bases do GitHub não declaram licença; foram usadas somente para
+   fins acadêmicos, com a origem citada.
+   Limitações: as imagens não são de São Paulo; a classe
+   obstrucao_calcada vem de uma única base; algumas fotos de exemplo
+   do Google podem ter sido geradas por IA.
+
+2) dados/relatos_obstaculos.csv (Modelo 2) - BASE SINTÉTICA.
+   Gerada pelo notebook 00_gerar_base_relatos.ipynb (semente fixa 42),
+   porque o app ainda não tem relatos reais. Usa coordenadas reais de 7
+   bairros de São Paulo (Sé, República, Liberdade, Bela Vista,
+   Consolação, Pinheiros, Vila Mariana) e 6 focos de problemas em locais
+   reais (Rua 25 de Março, Praça da Sé, Escadaria do Bixiga, Largo da
+   Batata, Praça da Liberdade e Metrô Vila Mariana), com 15% de relatos
+   isolados e alguns problemas de qualidade inseridos de propósito
+   (15 duplicados e 20 bairros vazios) para mostrar o tratamento.
+
+3) dados/embeddings.csv - gerado pelo notebook 01 a partir das imagens.
+
+4) api/testes/fotos_fora_da_base/ - 7 fotos de exemplo do Google Cloud
+   (gs://cloud-samples-data/generative-ai/image), que não fazem parte
+   do treino, usadas para testar o Modelo 1 com imagens novas.
+
+======================================================================
+USO DE IA GENERATIVA
+======================================================================
+Usamos o assistente Claude (Anthropic) como apoio para: planejar a
+solução, pesquisar bases públicas de imagens, escrever e revisar o
+código dos notebooks, da API e da integração Java, e revisar os textos.
+Todo o código foi executado, testado e revisado pelo grupo, e todos os
+integrantes conseguem explicar cada etapa.
+
+======================================================================
+COMO EXECUTAR
+======================================================================
+Ver README.md (instalação, notebooks, API, testes e deploy no Render).

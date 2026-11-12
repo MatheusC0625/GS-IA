@@ -1,0 +1,8 @@
+# a imagem da API só precisa de api/ e modelos/
+dados/
+notebooks/
+api/testes/fotos_fora_da_base/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.zip
+.git/

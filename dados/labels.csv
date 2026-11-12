@@ -1,0 +1,745 @@
+arquivo,classe,origem
+imagens/buraco/bur_0000_test_20250601_105348.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0001_test_20250601_1053540.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0002_test_20250601_105354.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0003_test_20250601_105408.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0004_test_20250601_105409.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0005_test_20250601_1054190.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0006_test_20250601_105419.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0007_test_20250601_1054280.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0008_test_20250601_105731.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0009_test_20250601_1057320.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0010_test_20250601_105732.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0011_test_20250601_1100530.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0012_test_20250601_110053.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0013_test_20250601_1101120.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0014_test_20250601_110112.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0015_train_20250601_095740.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0016_train_20250601_095741.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0017_train_20250601_100052.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0018_train_20250601_100218.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0019_train_20250601_100221.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0020_train_20250601_100230.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0021_train_20250601_100231.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0022_train_20250601_100232.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0023_train_20250601_100310.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0024_train_20250601_100431.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0025_train_20250601_100435.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0026_train_20250601_100441.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0027_train_20250601_100442.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0028_train_20250601_100447.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0029_train_20250601_100448.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0030_train_20250601_100619.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0031_train_20250601_101400.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0032_train_20250601_101401.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0033_train_20250601_1019580.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0034_train_20250601_101958.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0035_train_20250601_102149.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0036_train_20250601_102150.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0037_train_20250601_102409.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0038_train_20250601_102410.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0039_train_20250601_102411.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0040_train_20250601_102412.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0041_train_20250601_102413.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0042_train_20250601_102647.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0043_train_20250601_102810.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0044_train_20250601_102811.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0045_train_20250601_102814.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0046_train_20250601_102815.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0047_train_20250601_1028160.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0048_train_20250601_102816.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0049_train_20250601_102818.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0050_train_20250601_102823.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0051_train_20250601_102845.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0052_train_20250601_102928.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0053_train_20250601_102929.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0054_train_20250601_102930.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0055_train_20250601_103026.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0056_train_20250601_103027.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0057_train_20250601_1032020.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0058_train_20250601_103202.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0059_train_20250601_103203.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0060_train_20250601_103223.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0061_train_20250601_103348.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0062_train_20250601_103349.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0063_train_20250601_103358.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0064_train_20250601_103359.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0065_train_20250601_1034070.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0066_train_20250601_103407.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0067_train_20250601_1034450.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0068_train_20250601_103445.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0069_train_20250601_103605.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0070_train_20250601_1036070.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0071_train_20250601_103607.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0072_train_20250601_103615.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0073_train_20250601_103616.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0074_train_20250601_103631.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0075_train_20250601_103632.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0076_train_20250601_103633.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0077_train_20250601_103907.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0078_train_20250601_104004.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0079_train_20250601_104006.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0080_train_20250601_104013.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0081_train_20250601_104014.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0082_train_20250601_104015.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0083_train_20250601_1040220.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0084_train_20250601_104022.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0085_train_20250601_1041010.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0086_train_20250601_104101.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0087_train_20250601_1043110.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0088_train_20250601_104311.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0089_train_20250601_1043430.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0090_train_20250601_104343.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0091_train_20250601_104344.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0092_train_20250601_104345.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0093_train_20250601_104356.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0094_train_20250601_1043570.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0095_train_20250601_104357.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0096_train_20250601_104431.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0097_train_20250601_104550.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0098_train_20250601_104554.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0099_validation_20250601_104555.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0100_validation_20250601_104557.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0101_validation_20250601_1046020.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0102_validation_20250601_104602.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0103_validation_20250601_104613.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0104_validation_20250601_104614.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0105_validation_20250601_104615.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0106_validation_20250601_104652.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0107_validation_20250601_104653.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0108_validation_20250601_1047070.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0109_validation_20250601_104707.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0110_validation_20250601_104711.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0111_validation_20250601_104712.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0112_validation_20250601_104857.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0113_validation_20250601_104858.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0114_validation_20250601_104945.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0115_validation_20250601_104946.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0116_validation_20250601_104947.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0117_validation_20250601_105009.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0118_validation_20250601_105010.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0119_validation_20250601_1050120.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0120_validation_20250601_105012.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0121_validation_20250601_105041.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0122_validation_20250601_105105.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0123_validation_20250601_105115.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0124_validation_20250601_105117.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0125_validation_20250601_105118.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0126_validation_20250601_105125.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0127_validation_20250601_105126.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0128_validation_20250601_105127.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0129_validation_20250601_105134.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0130_validation_20250601_105135.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0131_validation_20250601_105136.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0132_validation_20250601_105141.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0133_validation_20250601_105142.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0134_validation_20250601_105147.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0135_validation_20250601_105148.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0136_validation_20250601_105204.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0137_validation_20250601_105205.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0138_validation_20250601_105206.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0139_validation_20250601_105207.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0140_validation_20250601_105326.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0141_validation_20250601_105327.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0142_validation_20250601_105328.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/buraco/bur_0143_validation_20250601_105345.jpg,buraco,"CWB-Pothole-dataset (GitHub pieromorais) - Curitiba/PR, recorte da marcacao"
+imagens/calcada_irregular/cal_0150_001.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0151_068.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0152_303.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0153_046.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0154_304.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0155_028.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0156_077.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0157_325.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0158_051.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0159_040.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0160_096.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0161_042.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0162_313.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0163_310.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0164_329.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0165_083.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0166_208.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0167_005.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0168_029.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0169_093.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0170_079.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0171_062.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0172_015.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0173_308.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0174_021.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0175_022.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0176_207.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0177_018.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0178_317.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0179_098.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0180_069.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0181_099.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0182_017.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0183_205.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0184_085.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0185_061.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0186_071.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0187_322.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0188_034.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0189_328.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0190_112.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0191_078.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0192_055.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0193_324.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0194_070.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0195_097.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0196_094.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0197_089.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0198_026.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0199_092.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0200_320.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0201_052.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0202_086.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0203_084.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0204_048.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0205_057.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0206_067.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0207_058.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0208_016.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0209_032.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0210_311.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0211_009.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0212_044.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0213_003.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0214_076.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0215_201.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0216_030.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0217_091.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0218_095.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0219_315.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0220_010.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0221_081.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0222_008.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0223_108.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0224_109.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0225_312.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0226_043.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0227_203.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0228_066.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0229_031.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0230_036.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0231_063.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0232_115.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0233_111.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0234_204.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0235_202.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0236_319.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0237_072.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0238_053.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0239_025.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0240_013.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0241_065.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0242_309.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0243_073.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0244_023.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0245_306.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0246_027.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0247_082.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0248_056.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0249_047.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0250_004.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0251_316.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0252_318.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0253_206.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0254_007.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0255_113.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0256_107.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0257_100.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0258_118.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0259_321.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0260_110.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0261_064.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0262_054.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0263_035.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0264_087.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0265_102.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0266_060.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0267_012.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0268_302.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0269_301.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0270_045.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0271_080.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0272_041.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0273_326.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0274_002.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0275_305.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0276_037.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0277_059.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0278_103.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0279_106.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0280_323.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0281_314.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0282_006.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0283_014.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0284_104.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0285_075.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0286_327.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0287_074.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0288_088.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0289_116.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0290_019.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0291_039.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0292_307.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0293_117.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0294_024.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0295_038.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0296_033.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0297_011.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0298_090.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/calcada_irregular/cal_0299_105.jpg,calcada_irregular,CrackForest-dataset (GitHub cuilimeng)
+imagens/escada_sem_rampa/esc_0300_IMG_20190415_140101.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0301_IMG_20190524_142353.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0302_IMG_20190513_133146.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0303_IMG_20190524_143102.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0304_IMG_20190524_140904.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0305_IMG_20190513_133256.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0306_IMG_20190510_181255.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0307_IMG_20190513_133129.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0308_IMG_20190513_132533.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0309_IMG_20190524_143148.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0310_IMG_20190515_163711.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0311_IMG_20190515_165617.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0312_IMG_20190524_140147.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0313_IMG_20190515_165243.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0314_IMG_20190513_133123.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0315_IMG_20190515_170007.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0316_IMG_20190513_172459.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0317_IMG_20190524_140113.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0318_IMG_20190513_172041.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0319_IMG_20190524_143330_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0320_IMG_20190513_172037.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0321_IMG_20190524_143218_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0322_IMG_20190513_172656.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0323_IMG_20190513_174534.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0324_IMG_20190524_142752.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0325_IMG_20190524_143432.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0326_IMG_20190524_143101.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0327_IMG_20190524_143330.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0328_IMG_20190513_132100.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0329_IMG_20190524_143759.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0330_IMG_20190513_172549.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0331_IMG_20190513_173254.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0332_IMG_20190524_143136.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0333_IMG_20190524_142501.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0334_IMG_20190524_135904.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0335_IMG_20190510_181319.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0336_IMG_20190524_143737.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0337_IMG_20190524_141150.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0338_IMG_20190510_181306.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0339_IMG_20190524_143247.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0340_IMG_20190524_143816.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0341_IMG_20190513_172337.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0342_IMG_20190513_175411.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0343_IMG_20190524_144538_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0344_IMG_20190415_140257.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0345_IMG_20190513_174936.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0346_IMG_20190513_172237.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0347_IMG_20190510_181614.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0348_IMG_20190513_175404.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0349_IMG_20190524_143813.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0350_IMG_20190524_142345_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0351_IMG_20190513_173521.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0352_IMG_20190513_172252.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0353_IMG_20190524_140807.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0354_IMG_20190524_142013.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0355_IMG_20190515_165939.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0356_IMG_20190513_175428.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0357_IMG_20190513_131610.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0358_IMG_20190524_143354.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0359_IMG_20190513_132516.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0360_IMG_20190524_144334.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0361_IMG_20190515_165250.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0362_IMG_20190513_174316.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0363_IMG_20190524_140934.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0364_IMG_20190415_140337.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0365_IMG_20190524_143641.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0366_IMG_20190524_140124.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0367_IMG_20190510_181555.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0368_IMG_20190524_141721.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0369_IMG_20190415_140256.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0370_IMG_20190513_173606.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0371_IMG_20190513_175541.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0372_IMG_20190524_143803_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0373_IMG_20190513_174322.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0374_IMG_20190513_173651.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0375_IMG_20190524_141720.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0376_IMG_20190515_165106.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0377_IMG_20190524_143911.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0378_IMG_20190524_144047.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0379_IMG_20190524_143508.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0380_IMG_20190524_141819.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0381_IMG_20190513_131503.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0382_IMG_20190524_141101.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0383_IMG_20190524_144004.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0384_IMG_20190524_143803.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0385_IMG_20190515_165937.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0386_IMG_20190515_164319.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0387_IMG_20190524_143518_1.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0388_IMG_20190513_132536.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0389_IMG_20190513_173050.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0390_IMG_20190524_144014.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0391_IMG_20190513_173556.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0392_IMG_20190524_143957.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0393_IMG_20190513_132425.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0394_IMG_20190415_140422.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0395_IMG_20190513_130945.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0396_IMG_20190513_175357.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0397_IMG_20190524_144028.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0398_IMG_20190524_143739.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0399_IMG_20190515_165514.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0400_IMG_20190513_174409.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0401_IMG_20190524_141640.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0402_IMG_20190513_173856.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0403_IMG_20190524_142059.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0404_IMG_20190513_174114.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0405_IMG_20190513_172314.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0406_IMG_20190515_164123.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0407_IMG_20190524_141030.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0408_IMG_20190513_131931.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0409_IMG_20190524_143122.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0410_IMG_20190524_141658.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0411_IMG_20190515_164026.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0412_IMG_20190513_173930.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0413_IMG_20190513_175104.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0414_IMG_20190513_132149.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0415_IMG_20190510_181209.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0416_IMG_20190513_132214.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0417_IMG_20190513_131919.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0418_IMG_20190524_141818.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0419_IMG_20190524_143504.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0420_IMG_20190513_173603.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0421_IMG_20190513_131809.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0422_IMG_20190524_142042.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0423_IMG_20190513_172846.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0424_IMG_20190524_143812.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0425_IMG_20190515_165010.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0426_IMG_20190524_143232.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0427_IMG_20190515_165632.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0428_IMG_20190515_170941.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0429_IMG_20190513_173036.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0430_IMG_20190513_131443.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0431_IMG_20190524_135837.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0432_IMG_20190513_130931.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0433_IMG_20190513_173016.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0434_IMG_20190524_143447.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0435_IMG_20190524_143829.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0436_IMG_20190515_165306.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0437_IMG_20190513_174039.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0438_IMG_20190513_133103.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0439_IMG_20190513_132053.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0440_IMG_20190513_175744.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0441_IMG_20190524_142810.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0442_IMG_20190524_140948.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0443_IMG_20190513_175439.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0444_IMG_20190513_131626.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0445_IMG_20190415_140434.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0446_IMG_20190524_143045.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0447_IMG_20190524_142821.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0448_IMG_20190513_131243.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/escada_sem_rampa/esc_0449_IMG_20190524_140826.jpg,escada_sem_rampa,stairs_dataset (GitHub anu71195)
+imagens/nao_obstaculo/nao_0600_IMG_20190513_175232.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0601_IMG_20190513_132736.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0602_IMG_20190513_132109.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0603_IMG_20190414_154109.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0604_IMG_20190414_154814.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0605_IMG_20190513_132112.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0606_IMG_20190513_131827.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0607_IMG_20190524_143810_1.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0608_IMG_20190515_165550.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0609_IMG_20190524_141825_1.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0610_IMG_20190221_165703.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0611_IMG_20190515_165439.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0612_IMG_20190513_131629.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0613_IMG_20190513_133139.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0614_IMG_20190221_165630.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0615_IMG_20190513_131434.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0616_IMG_20190415_140403.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0617_IMG_20190524_143822.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0618_IMG_20190524_144510.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0619_IMG_20190513_175224.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0620_IMG_20190513_175233.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0621_IMG_20190524_130901.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0622_IMG_20190414_154946.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0623_IMG_20190513_133321.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0624_IMG_20190524_141944.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0625_IMG_20190415_140306.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0626_IMG_20190513_132409.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0627_IMG_20190524_141943_1.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0628_IMG_20190221_165922.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0629_IMG_20190524_142106.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0630_IMG_20190513_131310.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0631_IMG_20190524_141314.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0632_IMG_20190513_131954.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0633_IMG_20190414_154656.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0634_IMG_20190524_144809.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0635_IMG_20190414_154633.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0636_IMG_20190524_140215.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0637_IMG_20190513_175219.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0638_IMG_20190221_165704.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0639_IMG_20190513_131907.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0640_IMG_20190515_165706.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0641_IMG_20190515_165416.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0642_IMG_20190524_141213.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0643_IMG_20190414_154543.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0644_IMG_20190513_132405.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0645_IMG_20190414_154637.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0646_IMG_20190513_132734.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0647_IMG_20190414_154724.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0648_IMG_20190221_165928.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0649_IMG_20190415_140238.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0650_IMG_20190524_143756.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0651_IMG_20190513_131237.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0652_IMG_20190414_154845.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0653_IMG_20190513_132604.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0654_IMG_20190515_170403.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0655_IMG_20190524_141607.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0656_IMG_20190524_142053.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0657_IMG_20190415_140329.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0658_IMG_20190524_142105.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0659_IMG_20190415_140231.jpg,nao_obstaculo,stairs_dataset/no_stairs (GitHub anu71195)
+imagens/nao_obstaculo/nao_0660_sergey.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0661_boats.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0662_perfume.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0663_a-man-and-a-dog.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0664_times_square.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0665_river-2.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0666_black-bag.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0667_luggage.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0668_forest-2.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0669_small-dog-pink.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0670_black-boots.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0671_sweater.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0672_armchair.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0673_woman.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0674_fruit.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0675_dress.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0676_sky2.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0677_daisy.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0678_sky.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0679_croissant.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0680_faces.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0681_cookies-milk.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0682_forest-1.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0683_table.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0684_teacup-1.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0685_vase_with_background.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0686_meal-prep.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0687_dog-2.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0688_face_no_surprise.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0689_latte.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0690_mug.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0691_penguin.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0692_woman.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0693_meal.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0694_scones.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0695_living-room.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0696_320px-Felis_catus-cat_on_snow.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0697_man-in-field.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0698_shoes.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0699_chips.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0700_mount_fuji.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0701_jacket.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0702_shirt.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0703_gardening-tools.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0704_room.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0705_person.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0706_suitcase.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0707_river-1.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0708_living-room-2.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0709_pixel-tablet.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0710_home.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0711_sofa.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0712_dog-1.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0713_office-desk.jpg,nao_obstaculo,Google Cloud Samples - generative-ai/vision
+imagens/nao_obstaculo/nao_0714_12282924083_fb80aa17d4_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0715_12572786553_634868f7f2_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0716_10995953955_089572caf0.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0717_12240165555_98625b1e88_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0718_105806915_a9c13e2106_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0719_10386702973_e74a34c806_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0720_10164073235_f29931d91e.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0721_11694025703_9a906fedc1_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0722_10172567486_2748826a8b.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0723_12450781274_eb78723921.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0724_10386525005_fd0b7d6c55_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0725_11023277956_8980d53169_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0726_13231224664_4af5293a37.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0727_12202373204_34fb07205b.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0728_10094731133_94a942463c.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0729_13979889721_42a59ca9fa_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0730_11441893003_ab83672800.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0731_12601254324_3cb62c254a_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0732_13235124703_a7e1266e44.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0733_10477378514_9ffbcec4cf_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0734_10862313945_e8ed9202d9_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0735_10686568196_b1915544a8.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0736_12094442595_297494dba4_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0737_14144522269_bc20029375_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0738_1240624822_4111dde542.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0739_10386503264_e05387e1f7_m.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0740_14019883858_e5d2a0ec10_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0741_116343334_9cb4acdc57_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0742_1314584013_fe935fdeb1_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0743_1195255751_d58b3d3076.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0744_10503217854_e66a804309.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0745_11465213433_847c4fa261.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0746_10993710036_2033222c91.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0747_126012913_edf771c564_n.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0748_1392579828_ab5a139052.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/nao_obstaculo/nao_0749_10791227_7168491604.jpg,nao_obstaculo,Google Cloud Samples - flowers (automl)
+imagens/obstrucao_calcada/obs_0000_Snipaste_2025-11-05_22-02-23.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0001_Snipaste_2025-11-08_13-33-59.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0002_Snipaste_2025-11-05_21-57-55.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0003_Snipaste_2025-11-08_13-33-17.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0004_Snipaste_2025-11-05_22-03-40.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0005_Snipaste_2025-11-05_21-58-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0006_Snipaste_2025-11-05_22-17-47.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0007_Snipaste_2025-11-05_21-42-33.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0008_Snipaste_2025-11-05_21-17-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0009_Snipaste_2025-11-08_22-34-07.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0010_Snipaste_2025-11-08_13-32-58.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0011_Snipaste_2025-11-08_13-35-40.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0012_Snipaste_2025-11-05_22-00-15.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0013_Snipaste_2025-11-05_22-02-16.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0014_Snipaste_2025-11-05_21-58-58.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0015_Snipaste_2025-11-05_21-55-49.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0016_Snipaste_2025-11-05_22-04-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0017_Snipaste_2025-11-05_21-59-05.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0018_Snipaste_2025-11-05_21-59-06.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0019_Snipaste_2025-11-05_22-00-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0020_Snipaste_2025-08-14_17-35-36.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0021_Snipaste_2025-11-05_21-54-33.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0022_Snipaste_2025-11-05_22-00-24.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0023_Snipaste_2025-11-05_21-54-11.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0024_Snipaste_2025-11-08_13-39-27.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0025_Snipaste_2025-11-05_21-44-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0026_Snipaste_2025-11-05_21-12-47.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0027_Snipaste_2025-11-05_21-57-44.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0028_Snipaste_2025-11-05_22-18-31.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0029_Snipaste_2025-11-05_22-00-04.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0030_Snipaste_2025-11-01_15-20-28.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0031_Snipaste_2025-11-08_22-37-21.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0032_Snipaste_2025-11-08_13-35-24.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0033_Snipaste_2025-11-05_21-40-55.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0034_Snipaste_2025-11-08_13-37-55.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0035_Snipaste_2025-11-05_22-18-40.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0036_Snipaste_2025-11-05_21-41-05.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0037_Snipaste_2025-11-08_22-38-45.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0038_Snipaste_2025-11-08_22-35-41.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0039_Snipaste_2025-11-08_13-38-40.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0040_Snipaste_2025-11-08_13-39-55.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0041_Snipaste_2025-08-15_11-32-43.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0042_Snipaste_2025-11-08_22-36-43.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0043_Snipaste_2025-11-05_22-17-45.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0044_Snipaste_2025-11-08_13-34-52.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0045_Snipaste_2025-11-05_21-56-01.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0046_Snipaste_2025-11-08_13-32-50.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0047_Snipaste_2025-11-05_21-19-54.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0048_Snipaste_2025-08-15_11-33-04.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0049_Snipaste_2025-11-05_21-57-01.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0050_Snipaste_2025-11-05_21-57-03.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0051_Snipaste_2025-11-08_13-41-39.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0052_Snipaste_2025-11-08_22-35-51.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0053_Snipaste_2025-08-15_11-34-27.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0054_Snipaste_2025-11-05_21-17-26.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0055_Snipaste_2025-11-08_22-51-33.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0056_Snipaste_2025-11-05_21-20-04.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0057_Snipaste_2025-11-05_21-14-36.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0058_Snipaste_2025-08-15_11-32-49.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0059_Snipaste_2025-11-08_23-19-54.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0060_Snipaste_2025-11-08_22-36-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0061_Snipaste_2025-11-05_21-45-57.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0062_Snipaste_2025-11-08_13-33-50.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0063_Snipaste_2025-11-08_13-43-42.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0064_Snipaste_2025-11-08_23-16-29.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0065_Snipaste_2025-08-15_11-34-35.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0066_Snipaste_2025-11-08_22-53-30.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0067_Snipaste_2025-11-05_21-15-39.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0068_Snipaste_2025-11-08_23-15-27.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0069_Snipaste_2025-11-08_13-34-50.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0070_Snipaste_2025-11-05_21-10-03.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0071_Snipaste_2025-11-08_23-13-14.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0072_Snipaste_2025-11-08_22-35-56.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0073_Snipaste_2025-11-02_23-30-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0074_Snipaste_2025-11-08_22-38-21.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0075_Snipaste_2025-11-02_23-34-19.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0076_Snipaste_2025-11-05_21-20-25.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0077_Snipaste_2025-11-08_23-13-27.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0078_Snipaste_2025-10-30_17-37-58.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0079_Snipaste_2025-08-15_11-32-54.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0080_Snipaste_2025-11-08_13-38-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0081_Snipaste_2025-11-08_23-18-17.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0082_Snipaste_2025-11-08_13-43-23.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0083_Snipaste_2025-11-08_13-41-11.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0084_Snipaste_2025-11-02_23-30-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0085_Snipaste_2025-11-08_13-45-20.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0086_Snipaste_2025-11-05_21-53-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0087_Snipaste_2025-11-08_13-40-30.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0088_Snipaste_2025-11-05_21-49-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0089_Snipaste_2025-11-08_23-16-26.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0090_Snipaste_2025-11-05_21-41-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0091_Snipaste_2025-10-30_17-37-11.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0092_Snipaste_2025-11-05_21-16-09.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0093_Snipaste_2025-11-08_22-49-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0094_Snipaste_2025-11-08_23-12-32.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0095_Snipaste_2025-11-02_23-47-57.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0096_Snipaste_2025-11-08_23-15-39.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0097_Snipaste_2025-11-08_22-35-02.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0098_Snipaste_2025-08-15_11-24-20.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0099_Snipaste_2025-11-08_23-11-20.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0100_Snipaste_2025-08-15_11-32-59.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0101_Snipaste_2025-08-15_11-32-51.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0102_Snipaste_2025-11-08_23-33-24.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0103_Snipaste_2025-11-08_22-53-50.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0104_Snipaste_2025-11-08_13-21-20.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0105_Snipaste_2025-11-05_21-17-24.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0106_Snipaste_2025-11-02_23-32-27.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0107_Snipaste_2025-10-30_17-38-18.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0108_Snipaste_2025-11-08_13-37-09.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0109_Snipaste_2025-08-15_11-35-56.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0110_Snipaste_2025-10-30_17-38-04.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0111_Snipaste_2025-11-05_21-16-38.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0112_Snipaste_2025-11-08_13-45-41.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0113_Snipaste_2025-11-05_21-53-15.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0114_Snipaste_2025-10-30_17-30-47.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0115_Snipaste_2025-11-05_21-17-28.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0116_Snipaste_2025-11-01_15-20-31.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0117_Snipaste_2025-11-02_23-44-35.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0118_Snipaste_2025-11-05_21-53-43.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0119_Snipaste_2025-11-08_23-13-42.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0120_Snipaste_2025-11-08_23-17-51.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0121_Snipaste_2025-11-02_23-36-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0122_Snipaste_2025-11-08_23-00-48.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0123_Snipaste_2025-11-02_23-32-22.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0124_Snipaste_2025-11-02_23-31-09.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0125_Snipaste_2025-11-08_13-36-54.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0126_Snipaste_2025-11-08_23-13-44.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0127_Snipaste_2025-11-01_15-22-05.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0128_Snipaste_2025-11-08_13-21-42.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0129_Snipaste_2025-11-08_13-18-01.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0130_Snipaste_2025-11-02_23-31-34.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0131_Snipaste_2025-11-08_13-45-46.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0132_Snipaste_2025-11-05_21-22-06.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0133_Snipaste_2025-11-05_21-51-43.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0134_Snipaste_2025-11-08_23-03-04.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0135_d74fa0b6c011c2b9eb6c7263f3acf3b2.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0136_Snipaste_2025-10-29_11-49-25.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0137_Snipaste_2025-11-08_23-25-50.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0138_Snipaste_2025-11-05_21-51-41.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0139_Snipaste_2025-11-02_23-12-10.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0140_Snipaste_2025-11-08_13-25-57.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0141_Snipaste_2025-11-05_21-53-18.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0142_b212548a78641dadee217ac4e62e62f5.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0143_Snipaste_2025-11-08_23-14-41.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0144_Snipaste_2025-10-29_11-49-22.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0145_Snipaste_2025-11-08_22-58-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0146_Snipaste_2025-10-30_17-35-24.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0147_Snipaste_2025-10-29_16-09-47.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0148_Snipaste_2025-11-08_13-47-00.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
+imagens/obstrucao_calcada/obs_0149_Snipaste_2025-10-29_16-10-40.jpg,obstrucao_calcada,Sidewalk-Obstacle-Dataset (GitHub T3qu1laSuns3t) - cenas diurnas
