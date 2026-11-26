@@ -1,4 +1,4 @@
-# Waze da Acessibilidade · IA para relatos e zonas críticas
+# Rota para Todos · IA para relatos e zonas críticas
 
 **Global Solution 2026/2 · CitizenTech · Artificial Intelligence & Chatbot**
 

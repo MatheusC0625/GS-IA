@@ -1,5 +1,5 @@
 """
-API REST do Waze da Acessibilidade (Global Solution 2026/2 - CitizenTech).
+API REST do Rota para Todos (Global Solution 2026/2 - CitizenTech).
 
 Endpoints:
   GET  /status        -> informa se a API e os modelos foram carregados

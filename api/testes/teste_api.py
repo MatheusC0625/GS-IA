@@ -1,5 +1,5 @@
 """
-Testa a API do Waze da Acessibilidade.
+Testa a API do Rota para Todos.
 
 1) Em um terminal, suba a API:   cd api  ->  python app.py
 2) Em outro terminal, rode:      cd api/testes  ->  python teste_api.py
